@@ -5,50 +5,26 @@
     clear: both;
   }
 }
+.whiteBackground{
+  background-color: white;
+  color: #0d0d0d;
+}
+
 body{
   margin: 0;
   padding: 0;
   font-family: sans-serif;
   background-color: #eaeaea;
   nav{
-    z-index: 111;
-    position: fixed;
-    top:0;
-    left: 0;
-    display: block;
-    width: 100%;
-    height: 60px;
-    font-size: 16px;
-    padding-left: 30px;
-    background: rgba(0, 0, 0, 0.5);
-    color: white;
-    .menuItem{
-      float: left;
-      line-height: 60px;
-      margin-right: 20px;
-      cursor: pointer;
-      transition: 0.3s;
-      &:hover{
-        border-bottom: 1px solid;
-        transition: 0.3s;
-        .border{
-          width: 100%;
-          transition: 0.3s;
-        }
-      }
-      .border{
-        transition: 0.3s;
-        width: 0;
-        height: 1px;
-        background-color: white;
-      }
-    }
+
   }
   main{
     .container{
-      background-color: white;
-      padding: 20px;
-      margin: 45px 30px 0 30px;
+      padding-left: 5.1%;
+      padding-right: 5.1%;
+      padding-top: 100px;
+      padding-bottom: 100px;
+
       &:first-child{
         padding: 0;
         margin: 0;
@@ -56,30 +32,139 @@ body{
       }
       .image{
         width: 100%;
-        height: 90vh;
+        height: 100vh;
         background-image: url("../img/1.jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
       }
       .title{
-        font-size: 22px;
-        color: #3a3939;
+        font-size: 40px;
+        width: 23%;
+        border-bottom: 1px solid;
+        padding-bottom: 30px;
       }
-      .titleImage{
+      .text{
         position: absolute;
-        top:30%;
-        width: 50%;
-        left: 27%;
-        background: rgba(0, 0, 0, 0.3);
+        top:28.5%;
+        bottom: 5.1%;
         color: white;
-        font-size: 30px;
-        padding: 20px;
-        text-align: center;
-        height: 30%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        left: 5.1%;
+        right: 5.1%;
+        width: 89.8%;
+        height: 66.4vh;
+        .titleImage{
+          font-size: 130px;
+          font-family: 'ostrich_sansmedium';
+        }
+        .otherText{
+          font-size: 28px;
+          font-family: 'metropolisextra_light';
+        }
+        .socialPart{
+          position: absolute;
+          bottom: 0;
+          display: block;
+          width: 100%;
+          img{
+            float: left;
+            height: 20px;
+          }
+          .social{
+            float: right;
+            i{
+              margin-right: 16px;
+              font-size: 20px;
+              display: block;
+              float: left;
+              &:last-child{
+                margin-right: 0;
+              }
+            }
+          }
+        }
+
+      }
+      .biographyContent{
+        .textBlockContent{
+          float: left;
+          margin-top: 70px;
+          width: 50%;
+          margin-right: 2%;
+          .block{
+            font-size: 18px;
+            padding-bottom: 50px;
+            &:last-child{
+              padding-top: 50px;
+              padding-bottom: 0;
+              border-top: 1px solid #b6b6b6;
+            }
+            .blockTitle{
+              font-size: 24px;
+              margin-bottom: 28px;
+            }
+            .content{
+
+            }
+          }
+        }
+        .biographyImage{
+          float: right;
+          width: 48%;
+        }
+      }
+      .biographyCarousel{
+        margin-top: 68px;
+        position: relative;
+        .itemPart{
+        }
+        .owl-nav{
+          width: 0;
+          height: 0;
+          margin-top: 0;
+          .owl-prev{
+            position: absolute;
+            top: 0;
+            border-radius: 0;
+            left: 0;
+            margin: 0;
+            width: 50px;
+            height: 100%;
+            padding: 0;
+            background: rgba(255, 255, 255, .58);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            &:hover{
+              background: rgba(255, 255, 255, .78);
+            }
+          }
+          .owl-next{
+            position: absolute;
+            top: 0;
+            border-radius: 0;
+            right: 0;
+            margin: 0;
+            width: 50px;
+            height: 100%;
+            padding: 0;
+            background: rgba(255, 255, 255, .58);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            &:hover{
+              background: rgba(255, 255, 255, .78);
+            }
+          }
+        }
+      }
+      &.events{
+        background-image: url(../img/3.jpg);
+        color: white;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        font-family: 'metropolismedium';
       }
     }
   }

@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <title>Arsen Hajyan</title>
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="fonts/webfontkit-20170131-092713/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="fonts/metropolis/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="lib/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="lib/OwlCarousel2-2.2.0/dist/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.css" />
 </head>
 <body>
-<nav class="clear">
+<!--<nav class="clear">
     <div class="menuItem">
         Home
         <div class="border"></div>
@@ -27,26 +32,68 @@
         About
         <div class="border"></div>
     </div>
-</nav>
+</nav>-->
 <main>
     <div class="container">
         <div class="image"></div>
-        <div class="titleImage">
-            Arsen Hajyan, musicien from Armenia
+        <div class="text">
+            <div class="titleImage">Arsen Hajyan</div>
+            <div class="otherText">Lorem ipsum dolor sit amet</div>
+            <div class="socialPart clear">
+                <img src="img/play.png" alt="play">
+                <div class="social">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                    <i class="fa fa-youtube" aria-hidden="true"></i>
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="container">
-        <div class="title">Music</div>
+    <div class="container whiteBackground">
+        <div class="title">Biography</div>
+        <div class="biographyContent clear">
+            <div class="textBlockContent">
+                <div class="block">
+                    <div class="blockTitle">What is Lorem Ipsum?</div>
+                    <div class="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                        has been the industry's standard dummy text ever since the 1500s, when an unknown
+                        printer took a galley of type and scrambled it to make a type specimen book. It has
+                        survived not only five centuries,but also the leap into electronic typesetting, remaining
+                        essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets
+                        containing Lorem Ipsum passages, and more recently with desktop publishing software
+                        like Aldus PageMaker including versions of Lorem Ipsum.
+                    </div>
+                </div>
+                <div class="block">
+                    <div class="blockTitle">Why do we use it?</div>
+                    <div class="content">It is a long established fact that a reader will be distracted by the readable content of a
+                        page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-
+                        less normal distribution of letters, as opposed to using 'Content here, content here',
+                        making it look like readable English.
+                    </div>
+                </div>
+            </div>
+            <img class="biographyImage" src="img/2.jpg" alt="biography">
+        </div>
+        <div class=" biographyCarousel owl-carousel owl-theme">
+            <div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>
+            <div class="itemPart"><img src="img/biography/biography2.jpg" alt=""></div>
+            <div class="itemPart"><img src="img/biography/biography3.jpg" alt=""></div>
+            <div class="itemPart"><img src="img/biography/biography4.jpg" alt=""></div>
+            <div class="itemPart"><img src="img/biography/biography5.jpg" alt=""></div>
+            <div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>
+        </div>
     </div>
-    <div class="container">
-        <div class="title">Photos</div>
-    </div>
-    <div class="container">
+    <div class="container events">
         <div class="title">Events</div>
     </div>
     <div class="container">
         <div class="title">About</div>
     </div>
 </main>
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="lib/OwlCarousel2-2.2.0/dist/owl.carousel.min.js"></script>
+<script src="js/script.js"></script>
 </body>
 </html>

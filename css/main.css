@@ -3,50 +3,21 @@
   display: block;
   clear: both;
 }
+.whiteBackground {
+  background-color: white;
+  color: #0d0d0d;
+}
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
   background-color: #eaeaea;
 }
-body nav {
-  z-index: 111;
-  position: fixed;
-  top: 0;
-  left: 0;
-  display: block;
-  width: 100%;
-  height: 60px;
-  font-size: 16px;
-  padding-left: 30px;
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
-}
-body nav .menuItem {
-  float: left;
-  line-height: 60px;
-  margin-right: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-body nav .menuItem:hover {
-  border-bottom: 1px solid;
-  transition: 0.3s;
-}
-body nav .menuItem:hover .border {
-  width: 100%;
-  transition: 0.3s;
-}
-body nav .menuItem .border {
-  transition: 0.3s;
-  width: 0;
-  height: 1px;
-  background-color: white;
-}
 body main .container {
-  background-color: white;
-  padding: 20px;
-  margin: 45px 30px 0 30px;
+  padding-left: 5.1%;
+  padding-right: 5.1%;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 body main .container:first-child {
   padding: 0;
@@ -55,28 +26,129 @@ body main .container:first-child {
 }
 body main .container .image {
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   background-image: url("../img/1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 body main .container .title {
-  font-size: 22px;
-  color: #3a3939;
+  font-size: 40px;
+  width: 23%;
+  border-bottom: 1px solid;
+  padding-bottom: 30px;
 }
-body main .container .titleImage {
+body main .container .text {
   position: absolute;
-  top: 30%;
-  width: 50%;
-  left: 27%;
-  background: rgba(0, 0, 0, 0.3);
+  top: 28.5%;
+  bottom: 5.1%;
   color: white;
-  font-size: 30px;
-  padding: 20px;
-  text-align: center;
-  height: 30%;
+  left: 5.1%;
+  right: 5.1%;
+  width: 89.8%;
+  height: 66.4vh;
+}
+body main .container .text .titleImage {
+  font-size: 130px;
+  font-family: 'ostrich_sansmedium';
+}
+body main .container .text .otherText {
+  font-size: 28px;
+  font-family: 'metropolisextra_light';
+}
+body main .container .text .socialPart {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+}
+body main .container .text .socialPart img {
+  float: left;
+  height: 20px;
+}
+body main .container .text .socialPart .social {
+  float: right;
+}
+body main .container .text .socialPart .social i {
+  margin-right: 16px;
+  font-size: 20px;
+  display: block;
+  float: left;
+}
+body main .container .text .socialPart .social i:last-child {
+  margin-right: 0;
+}
+body main .container .biographyContent .textBlockContent {
+  float: left;
+  margin-top: 70px;
+  width: 50%;
+  margin-right: 2%;
+}
+body main .container .biographyContent .textBlockContent .block {
+  font-size: 18px;
+  padding-bottom: 50px;
+}
+body main .container .biographyContent .textBlockContent .block:last-child {
+  padding-top: 50px;
+  padding-bottom: 0;
+  border-top: 1px solid #b6b6b6;
+}
+body main .container .biographyContent .textBlockContent .block .blockTitle {
+  font-size: 24px;
+  margin-bottom: 28px;
+}
+body main .container .biographyContent .biographyImage {
+  float: right;
+  width: 48%;
+}
+body main .container .biographyCarousel {
+  margin-top: 68px;
+  position: relative;
+}
+body main .container .biographyCarousel .owl-nav {
+  width: 0;
+  height: 0;
+  margin-top: 0;
+}
+body main .container .biographyCarousel .owl-nav .owl-prev {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  left: 0;
+  margin: 0;
+  width: 50px;
+  height: 100%;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.58);
   display: flex;
   align-items: center;
   justify-content: center;
+}
+body main .container .biographyCarousel .owl-nav .owl-prev:hover {
+  background: rgba(255, 255, 255, 0.78);
+}
+body main .container .biographyCarousel .owl-nav .owl-next {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  right: 0;
+  margin: 0;
+  width: 50px;
+  height: 100%;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.58);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body main .container .biographyCarousel .owl-nav .owl-next:hover {
+  background: rgba(255, 255, 255, 0.78);
+}
+body main .container.events {
+  background-image: url(../img/3.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  font-family: 'metropolismedium';
 }
