@@ -165,7 +165,44 @@ body{
         background-size: cover;
         background-position: center top;
         font-family: 'metropolismedium';
+        .twoBlock{
+          &:nth-child(even){
+            float: left;
+          }
+          &:nth-child(odd){
+            float: right;
+          }
+          .eventBlock{
+            display: block;
+            margin-top: 60px;
+
+            .eventImage{
+              max-width: 100%;
+              float: left;
+            }
+            .eventContent{
+              float: left;
+              margin-left: 55px;
+              .eventTitle{
+                font-size: 28px;
+              }
+              .eventText{
+                margin-top:35px;
+                .textBlock{
+                  color: #000000;
+                  margin-top: 33px;
+                  font-size: 18px;
+                  font-family: 'metropolislight';
+                  &:first-child{
+                    margin-top: 0;
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
 }
+

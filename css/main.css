@@ -152,3 +152,36 @@ body main .container.events {
   background-position: center top;
   font-family: 'metropolismedium';
 }
+body main .container.events .twoBlock:nth-child(even) {
+  float: left;
+}
+body main .container.events .twoBlock:nth-child(odd) {
+  float: right;
+}
+body main .container.events .twoBlock .eventBlock {
+  display: block;
+  margin-top: 60px;
+}
+body main .container.events .twoBlock .eventBlock .eventImage {
+  max-width: 100%;
+  float: left;
+}
+body main .container.events .twoBlock .eventBlock .eventContent {
+  float: left;
+  margin-left: 55px;
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventTitle {
+  font-size: 28px;
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventText {
+  margin-top: 35px;
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock {
+  color: #000000;
+  margin-top: 33px;
+  font-size: 18px;
+  font-family: 'metropolislight';
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock:first-child {
+  margin-top: 0;
+}
