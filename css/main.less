@@ -205,70 +205,165 @@ body{
       &.videos{
          padding-left: 0;
          padding-right: 0;
-        .title{
-          margin-left: 5.1%;
-          margin-right: 5.1%;
-        }
-        .videoCarousel{
-          margin-top: 100px;
-          .owl-item{
-            .itemPart{
-              background-color: white;
-              transform: scale(.8);
-              img{
-                -webkit-filter: opacity(50%); filter: opacity(50%);
+         background-color: white;
+         .title{
+           margin-left: 5.1%;
+           margin-right: 5.1%;
+         }
+         .videoCarousel{
+           margin-top: 100px;
+           .owl-item{
+             .itemPart{
+               background-color: white;
+               transform: scale(.8);
+               img{
+                 -webkit-filter: opacity(50%); filter: opacity(50%);
 
+               }
+             }
+             &.active{
+               .itemPart{
+                 background-color: transparent;
+                 transform: scale(1);
+                 img{
+                   -webkit-filter: opacity(100%); filter: opacity(100%);
+                 }
+               }
+             }
+           }
+           .owl-nav{
+             width: 0;
+             height: 0;
+             margin-top: 0;
+             .owl-prev{
+               position: absolute;
+               top: 0;
+               border-radius: 0;
+               left: 6%;
+               margin: 0;
+               width: 50px;
+               height: 100%;
+               padding: 0;
+               background: transparent;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+
+             }
+             .owl-next{
+               position: absolute;
+               top: 0;
+               border-radius: 0;
+               right: 6%;
+               margin: 0;
+               width: 50px;
+               height: 100%;
+               padding: 0;
+               background: transparent;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+             }
+           }
+         }
+       }
+      &.contact{
+        background-image: url(../img/4.jpg);
+        color: white;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        font-family: 'metropolismedium';
+        .contactMe{
+          margin-top: 70px;
+          width: 50%;
+          float: left;
+          .contactsPart{
+            width: 50%;
+            float: left;
+            margin-right: 6%;
+            input{
+              font-family: 'metropolismedium';
+              font-size: 18px;
+              width: 100%;
+              display: block;
+              background: transparent;
+              border: none;
+              border-bottom: 1px solid #505050;
+              padding-bottom: 17px;
+              margin-bottom: 27px;
+              color: white;
+              &:active, &:focus{
+                outline: none;
               }
-            }
-            &.active{
-              .itemPart{
-                background-color: transparent;
-                transform: scale(1);
-                img{
-                  -webkit-filter: opacity(100%); filter: opacity(100%);
-
-                }
+              &:last-child{
+                margin-bottom: 0;
               }
-
             }
           }
-
-          .owl-nav{
-            width: 0;
-            height: 0;
-            margin-top: 0;
-            .owl-prev{
-              position: absolute;
-              top: 0;
-              border-radius: 0;
-              left: 0;
-              margin: 0;
-              width: 50px;
-              height: 100%;
-              padding: 0;
-              background: transparent;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-
+          .messagePart{
+            float: left;
+            height: 177px;
+            width: 40%;
+            .messageBlockTitle{
+              font-family: 'metropolismedium';
+              font-size: 18px;
+              color: darkgrey;
+              margin-bottom: 18px;
             }
-            .owl-next{
-              position: absolute;
-              top: 0;
-              border-radius: 0;
-              right: 0;
-              margin: 0;
-              width: 50px;
+            .textareaPart{
+              position: relative;
               height: 100%;
-              padding: 0;
-              background: transparent;
-              display: flex;
-              align-items: center;
-              justify-content: center;
+              textarea{
+                background: transparent;
+                color: white;
+                border: 1px solid #505050;
+                height: 74%;
+                width: 100%;
+                resize: none;
+                &:active, &:focus{
+                  outline: none;
+                }
+              }
+              button{
+                position: absolute;
+                padding: 13px 32px;
+                background: transparent;
+                color: #505050;
+                font-family: 'metropolismedium';
+                font-size: 18px;
+                border: 1px solid #505050;
+                right: -6px;
+                top: 87px;
+                &:active, &:focus{
+                  outline: none;
+                }
+              }
             }
+
+          }
+        }
+        .contactInfo{
+          float: right;
+          width: 50%;
+          height: 136px;
+          margin-top: 110px;
+          background: rgba(0,0,0, 0.4);
+          font-family: 'metropolismedium';
+          font-size: 18px;
+          /*padding: 68px 0 68px 68px;*/
+          i{
+            font-size: 24px;
+          }
+          .block{
+            float: left;
           }
         }
       }
+
+
+
+
     }
   }
 }

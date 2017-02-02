@@ -21,7 +21,7 @@ $(document).ready(function(){
         dots: false,
         stagePadding: 200,
         lazyLoad: true,
-        navText: ['<img src="img/prev.png" alt="prev">', '<img src="img/next.png" alt="next">'],
+        navText: ['<img src="img/prevBig.png" alt="prev">', '<img src="img/nextBig.png" alt="next">'],
         loop:true,
         responsive: {
             0: {
@@ -54,4 +54,6 @@ $(document).ready(function(){
             }
         }
     });
+    $('#video-gallery').lightGallery();
+
 });

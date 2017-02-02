@@ -188,6 +188,7 @@ body main .container.events .twoBlock .eventBlock .eventContent .eventText .text
 body main .container.videos {
   padding-left: 0;
   padding-right: 0;
+  background-color: white;
 }
 body main .container.videos .title {
   margin-left: 5.1%;
@@ -221,7 +222,7 @@ body main .container.videos .videoCarousel .owl-nav .owl-prev {
   position: absolute;
   top: 0;
   border-radius: 0;
-  left: 0;
+  left: 6%;
   margin: 0;
   width: 50px;
   height: 100%;
@@ -235,7 +236,7 @@ body main .container.videos .videoCarousel .owl-nav .owl-next {
   position: absolute;
   top: 0;
   border-radius: 0;
-  right: 0;
+  right: 6%;
   margin: 0;
   width: 50px;
   height: 100%;
@@ -244,4 +245,99 @@ body main .container.videos .videoCarousel .owl-nav .owl-next {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+body main .container.contact {
+  background-image: url(../img/4.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  font-family: 'metropolismedium';
+}
+body main .container.contact .contactMe {
+  margin-top: 70px;
+  width: 50%;
+  float: left;
+}
+body main .container.contact .contactMe .contactsPart {
+  width: 50%;
+  float: left;
+  margin-right: 6%;
+}
+body main .container.contact .contactMe .contactsPart input {
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #505050;
+  padding-bottom: 17px;
+  margin-bottom: 27px;
+  color: white;
+}
+body main .container.contact .contactMe .contactsPart input:active,
+body main .container.contact .contactMe .contactsPart input:focus {
+  outline: none;
+}
+body main .container.contact .contactMe .contactsPart input:last-child {
+  margin-bottom: 0;
+}
+body main .container.contact .contactMe .messagePart {
+  float: left;
+  height: 177px;
+  width: 40%;
+}
+body main .container.contact .contactMe .messagePart .messageBlockTitle {
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  color: darkgrey;
+  margin-bottom: 18px;
+}
+body main .container.contact .contactMe .messagePart .textareaPart {
+  position: relative;
+  height: 100%;
+}
+body main .container.contact .contactMe .messagePart .textareaPart textarea {
+  background: transparent;
+  color: white;
+  border: 1px solid #505050;
+  height: 74%;
+  width: 100%;
+  resize: none;
+}
+body main .container.contact .contactMe .messagePart .textareaPart textarea:active,
+body main .container.contact .contactMe .messagePart .textareaPart textarea:focus {
+  outline: none;
+}
+body main .container.contact .contactMe .messagePart .textareaPart button {
+  position: absolute;
+  padding: 13px 32px;
+  background: transparent;
+  color: #505050;
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  border: 1px solid #505050;
+  right: -6px;
+  top: 87px;
+}
+body main .container.contact .contactMe .messagePart .textareaPart button:active,
+body main .container.contact .contactMe .messagePart .textareaPart button:focus {
+  outline: none;
+}
+body main .container.contact .contactInfo {
+  float: right;
+  width: 50%;
+  height: 136px;
+  margin-top: 110px;
+  background: rgba(0, 0, 0, 0.4);
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  /*padding: 68px 0 68px 68px;*/
+}
+body main .container.contact .contactInfo i {
+  font-size: 24px;
+}
+body main .container.contact .contactInfo .block {
+  float: left;
 }

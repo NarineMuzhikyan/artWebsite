@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="lib/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="lib/OwlCarousel2-2.2.0/dist/assets/owl.carousel.min.css" />
     <link rel="stylesheet" href="lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.css" />
+    <link type="text/css" rel="stylesheet" href="node_modules/lightgallery/dist/css/lightgallery.css" />
 </head>
 <body>
 <!--<nav class="clear">
@@ -138,18 +139,72 @@
     </div>
     <div class="container videos">
         <div class="title">Videos</div>
-        <div class=" videoCarousel owl-carousel owl-theme">
-            <div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>
-            <div class="itemPart"><img src="img/biography/biography2.jpg" alt=""></div>
-            <div class="itemPart"><img src="img/biography/biography3.jpg" alt=""></div>
-            <div class="itemPart"><img src="img/biography/biography4.jpg" alt=""></div>
-            <div class="itemPart"><img src="img/biography/biography5.jpg" alt=""></div>
-            <div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>
+        <div id="video-gallery">
+            <div class=" videoCarousel owl-carousel owl-theme">
+                <a class="itemPart" data-src="https://www.youtube.com/watch?v=meBbDqAXago" href="" data-poster="https://www.youtube.com/watch?v=meBbDqAXago" >
+                    <img class="itemPart" src="img/biography/biography1.jpg"/>
+                </a>
+                <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago" data-poster="https://www.youtube.com/watch?v=meBbDqAXago" >
+                    <img class="itemPart" src="img/biography/biography2.jpg"/>
+                </a>
+                <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago" data-poster="https://www.youtube.com/watch?v=meBbDqAXago" >
+                    <img class="itemPart" src="img/biography/biography3.jpg"/>
+                </a>
+
+                <!--<div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>
+                <div class="itemPart"><img src="img/biography/biography2.jpg" alt=""></div>
+                <div class="itemPart"><img src="img/biography/biography3.jpg" alt=""></div>
+                <div class="itemPart"><img src="img/biography/biography4.jpg" alt=""></div>
+                <div class="itemPart"><img src="img/biography/biography5.jpg" alt=""></div>
+                <div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>-->
+            </div>
         </div>
+    </div>
+    <div class="container contact clear">
+        <div class="title">Contact</div>
+        <div class="contactMe">
+            <form class="clear">
+                <div class="contactsPart">
+                    <input type="text" placeholder="Name">
+                    <input type="text" placeholder="E-mail">
+                    <input type="text" placeholder="Title">
+                </div>
+                <div class="messagePart">
+                    <div class="messageBlockTitle">Message</div>
+                    <div class="textareaPart">
+                        <textarea name="messageText" id=""></textarea>
+                        <button>Send</button>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+        <div class="contactInfo clear">
+            <div class="block">
+                <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                <span>arsen.hajyan@gmail.com</span>
+            </div>
+            <div class="block">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <span>+(374)-55264841</span>
+            </div>
+            <div class="block">
+                <div class="social">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                    <i class="fa fa-youtube" aria-hidden="true"></i>
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
+
     </div>
 </main>
 <script src="node_modules/jquery/dist/jquery.min.js"></script>
 <script src="lib/OwlCarousel2-2.2.0/dist/owl.carousel.min.js"></script>
+<script src="node_modules/lightgallery/dist/js/lightgallery.min.js"></script>
+<script src="node_modules/lg-thumbnail/dist/lg-thumbnail.min.js"></script>
+<script src="node_modules/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
 <script src="js/script.js"></script>
 </body>
 </html>
