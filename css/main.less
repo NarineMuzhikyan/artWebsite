@@ -202,6 +202,73 @@ body{
           }
         }
       }
+      &.videos{
+         padding-left: 0;
+         padding-right: 0;
+        .title{
+          margin-left: 5.1%;
+          margin-right: 5.1%;
+        }
+        .videoCarousel{
+          margin-top: 100px;
+          .owl-item{
+            .itemPart{
+              background-color: white;
+              transform: scale(.8);
+              img{
+                -webkit-filter: opacity(50%); filter: opacity(50%);
+
+              }
+            }
+            &.active{
+              .itemPart{
+                background-color: transparent;
+                transform: scale(1);
+                img{
+                  -webkit-filter: opacity(100%); filter: opacity(100%);
+
+                }
+              }
+
+            }
+          }
+
+          .owl-nav{
+            width: 0;
+            height: 0;
+            margin-top: 0;
+            .owl-prev{
+              position: absolute;
+              top: 0;
+              border-radius: 0;
+              left: 0;
+              margin: 0;
+              width: 50px;
+              height: 100%;
+              padding: 0;
+              background: transparent;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+
+            }
+            .owl-next{
+              position: absolute;
+              top: 0;
+              border-radius: 0;
+              right: 0;
+              margin: 0;
+              width: 50px;
+              height: 100%;
+              padding: 0;
+              background: transparent;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }
+          }
+        }
+      }
     }
   }
 }
