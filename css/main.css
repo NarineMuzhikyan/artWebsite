@@ -48,7 +48,22 @@ body main .container .menuIcon {
   color: white;
   cursor: pointer;
 }
+body main .container .menuIcon:hover {
+  /*.line{
+            animation-name: animateWidth;
+            animation-duration: 0.5s;
+          }*/
+}
+body main .container .menuIcon:hover .line:first-child {
+  animation-name: animateWidth;
+  animation-duration: 0.3s;
+}
+body main .container .menuIcon:hover .line:last-child {
+  animation-name: animateWidth;
+  animation-duration: 1s;
+}
 body main .container .menuIcon .line {
+  transition: 0.3s;
   width: 38px;
   height: 3px;
   background-color: white;
@@ -60,7 +75,7 @@ body main .container .menuIcon .line:last-child {
 body main .container .navigation {
   top: 0;
   position: absolute;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(0, 0, 0, 0.9);
   width: 100%;
   height: 100%;
   transition: 0.3s;
@@ -72,6 +87,7 @@ body main .container .navigation .menuClose {
   cursor: pointer;
 }
 body main .container .navigation .menuClose .line {
+  transition: 0.3s;
   position: absolute;
   top: 0;
   width: 38px;
@@ -102,11 +118,30 @@ body main .container .navigation nav {
   text-align: right;
 }
 body main .container .navigation nav .navItem {
+  transition: 0.3s;
+  cursor: pointer;
   padding: 5.3% 0;
   border-bottom: 1px solid #a5a5a5;
 }
 body main .container .navigation nav .navItem:first-child {
   border-top: 1px solid #a5a5a5;
+}
+body main .container .navigation nav .navItem:hover {
+  color: white;
+  transition: 0.3s;
+}
+body main .container .navigation nav .social {
+  margin-top: 5.1%;
+}
+body main .container .navigation nav .social i {
+  cursor: pointer;
+  margin-right: 16px;
+  font-size: 20px;
+  display: block;
+  float: right;
+}
+body main .container .navigation nav .social i:first-child {
+  margin-right: 0;
 }
 body main .container .image {
   width: 100%;
@@ -460,6 +495,15 @@ body footer .footerItem {
 }
 body footer .footerItem:last-child {
   margin-right: 0;
+}
+/*animation*/
+@-webkit-keyframes animateWidth {
+  from {
+    width: 0;
+  }
+  to {
+    width: 38px;
+  }
 }
 /*responsive*/
 @media screen and (max-width: 1806px) and (min-width: 930px) {

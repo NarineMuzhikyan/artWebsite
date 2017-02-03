@@ -65,6 +65,7 @@ $(document).ready(function(){
         }
 
     });
+
     $( ".menuClose" ).on( "click", function() {
         if(!$('.navigation').hasClass('w0')){
             $('.navigation').addClass('w0')
