@@ -3,6 +3,23 @@
   display: block;
   clear: both;
 }
+.floatLeft {
+  float: left;
+}
+.floatRight {
+  float: right;
+}
+.displayBlock {
+  display: block;
+}
+.displayNone {
+  display: none;
+}
+.w0 {
+  width: 0 !important;
+  overflow: hidden;
+  transition: 0.3s;
+}
 .whiteBackground {
   background-color: white;
   color: #0d0d0d;
@@ -23,6 +40,73 @@ body main .container:first-child {
   padding: 0;
   margin: 0;
   position: relative;
+}
+body main .container .menuIcon {
+  position: absolute;
+  top: 5.1%;
+  right: 5.1%;
+  color: white;
+  cursor: pointer;
+}
+body main .container .menuIcon .line {
+  width: 38px;
+  height: 3px;
+  background-color: white;
+  margin-bottom: 9px;
+}
+body main .container .menuIcon .line:last-child {
+  margin-bottom: 0;
+}
+body main .container .navigation {
+  top: 0;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.85);
+  width: 100%;
+  height: 100%;
+  transition: 0.3s;
+}
+body main .container .navigation .menuClose {
+  position: absolute;
+  top: 6.5%;
+  right: 6.5%;
+  cursor: pointer;
+}
+body main .container .navigation .menuClose .line {
+  position: absolute;
+  top: 0;
+  width: 38px;
+  height: 3px;
+  background-color: white;
+  margin-bottom: 9px;
+  transform: rotate(40deg);
+}
+body main .container .navigation .menuClose .line:last-child {
+  transform: rotate(-40deg);
+}
+body main .container .navigation .name {
+  position: absolute;
+  top: 5.1%;
+  left: 5.1%;
+  font-size: 30px;
+  font-family: 'metropolisbold';
+  color: #707070;
+}
+body main .container .navigation nav {
+  width: 35%;
+  height: 86.4%;
+  font-size: 50px;
+  color: #a5a5a5;
+  position: absolute;
+  right: 5.1%;
+  top: 13.6%;
+  text-align: right;
+}
+body main .container .navigation nav .navItem {
+  padding: 5.3% 0;
+  border-bottom: 1px solid #a5a5a5;
+}
+body main .container .navigation nav .navItem:first-child {
+  border-top: 1px solid #a5a5a5;
 }
 body main .container .image {
   width: 100%;
@@ -361,6 +445,20 @@ body main .container.contact .contactInfo .block .social i {
   margin-right: 20px;
 }
 body main .container.contact .contactInfo .block .social i:last-child {
+  margin-right: 0;
+}
+body footer {
+  font-family: 'metropolislight';
+  font-size: 16px;
+  color: #000000;
+  padding: 25px 5.1%;
+}
+body footer .footerItem {
+  float: left;
+  margin-right: 20px;
+  cursor: pointer;
+}
+body footer .footerItem:last-child {
   margin-right: 0;
 }
 /*responsive*/

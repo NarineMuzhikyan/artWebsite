@@ -57,4 +57,18 @@ $(document).ready(function(){
     });
     $('#video-gallery').lightGallery();
 
+    /*toggle menu*/
+
+    $( ".menuIcon" ).on( "click", function() {
+        if($('.navigation').hasClass('w0')){
+            $('.navigation').removeClass('w0')
+        }
+
+    });
+    $( ".menuClose" ).on( "click", function() {
+        if(!$('.navigation').hasClass('w0')){
+            $('.navigation').addClass('w0')
+        }
+    });
+
 });
