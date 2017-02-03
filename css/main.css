@@ -338,11 +338,17 @@ body main .container.contact .contactInfo {
 body main .container.contact .contactInfo i {
   font-size: 24px;
 }
+body main .container.contact .contactInfo i.fa-envelope-o {
+  margin-right: 20px;
+}
+body main .container.contact .contactInfo i.fa-phone {
+  margin-right: 20px;
+}
 body main .container.contact .contactInfo .block {
   float: left;
   margin-top: 5%;
-  padding-right: 6%;
-  padding-left: 6%;
+  padding-right: 4%;
+  padding-left: 4%;
   color: #b4b4b4;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -350,4 +356,140 @@ body main .container.contact .contactInfo .block {
 }
 body main .container.contact .contactInfo .block:last-child {
   border-right: 0;
+}
+body main .container.contact .contactInfo .block .social i {
+  margin-right: 20px;
+}
+body main .container.contact .contactInfo .block .social i:last-child {
+  margin-right: 0;
+}
+/*responsive*/
+@media screen and (max-width: 1806px) and (min-width: 930px) {
+  body main .container.contact .contactMe {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactMe .messagePart {
+    float: right;
+  }
+  body main .container.contact .contactInfo {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  body main .container.contact .contactInfo .block {
+    margin-top: 4%;
+    float: none;
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 930px) and (min-width: 630px) {
+  body main .container.contact .contactMe {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactMe .messagePart {
+    float: right;
+  }
+  body main .container.contact .contactInfo {
+    float: none;
+    width: 100%;
+    text-align: center;
+    height: auto;
+  }
+  body main .container.contact .contactInfo .block {
+    display: block;
+    text-align: left;
+    border-right: 0;
+    float: none;
+  }
+}
+@media screen and (max-width: 630px) {
+  body main .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  body main .container .biographyContent .textBlockContent {
+    margin-top: 30px;
+  }
+  body main .container .biographyContent .textBlockContent .block {
+    font-size: 14px;
+    padding-bottom: 18px;
+  }
+  body main .container .biographyContent .textBlockContent .block .blockTitle {
+    font-size: 19px;
+    margin-bottom: 20px;
+  }
+  body main .container .biographyContent .textBlockContent .block:last-child {
+    padding-top: 18px;
+  }
+  body main .container .title {
+    font-size: 30px;
+  }
+  body main .container .text .titleImage {
+    font-size: 50px;
+  }
+  body main .container .text .otherText {
+    font-size: 14px;
+  }
+  body main .container.contact .contactMe {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactMe .messagePart {
+    float: none;
+    width: 100%;
+    margin-top: 30px;
+  }
+  body main .container.contact .contactMe .contactsPart {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactInfo {
+    float: none;
+    width: 100%;
+    text-align: center;
+    height: auto;
+  }
+  body main .container.contact .contactInfo .block {
+    display: block;
+    text-align: left;
+    border-right: 0;
+    float: none;
+  }
+}
+@media screen and (max-width: 1180px) {
+  body main .container.events .twoBlock:nth-child(even) {
+    float: none;
+  }
+  body main .container.events .twoBlock:nth-child(odd) {
+    float: none;
+  }
+  body main .container.events .twoBlock .eventBlock {
+    display: block;
+    margin-top: 60px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventImage {
+    max-width: 100%;
+    float: left;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent {
+    float: left;
+    margin-left: 55px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventTitle {
+    font-size: 28px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventText {
+    margin-top: 35px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock {
+    color: #000000;
+    margin-top: 33px;
+    font-size: 18px;
+    font-family: 'metropolislight';
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock:first-child {
+    margin-top: 0;
+  }
 }

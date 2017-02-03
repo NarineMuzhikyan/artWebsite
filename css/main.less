@@ -354,13 +354,18 @@ body{
           /*padding: 68px 0 68px 68px;*/
           i{
             font-size: 24px;
-            
+            &.fa-envelope-o{
+              margin-right: 20px;
+            }
+            &.fa-phone{
+              margin-right: 20px;
+            }
           }
           .block{
             float: left;
             margin-top: 5%;
-            padding-right: 6%;
-            padding-left: 6%;
+            padding-right: 4%;
+            padding-left: 4%;
             color: #b4b4b4;
             padding-top: 10px;
             padding-bottom: 10px;
@@ -368,13 +373,194 @@ body{
             &:last-child{
               border-right: 0;
             }
+            .social{
+              i{
+                margin-right: 20px;
+                &:last-child{
+                  margin-right: 0;
+                }
+              }
+            }
           }
         }
       }
 
 
 
+    }
+  }
+}
 
+
+
+
+/*responsive*/
+@media screen and (max-width: 1806px) and (min-width: 930px){
+  body{
+    main{
+      .container{
+        &.contact{
+          .contactMe{
+            float: none;
+            width: 100%;
+            .messagePart{
+              float: right;
+            }
+          }
+          .contactInfo{
+            float: none;
+            width: 100%;
+            text-align: center;
+            .block{
+              margin-top: 4%;
+              float: none;
+              display: inline-block;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 930px) and (min-width: 630px){
+  body{
+    main{
+      .container{
+        &.contact{
+          .contactMe{
+            float: none;
+            width: 100%;
+            .messagePart{
+              float: right;
+            }
+          }
+          .contactInfo{
+            float: none;
+            width: 100%;
+            text-align: center;
+            height: auto;
+            .block{
+              display: block;
+              text-align: left;
+              border-right: 0;
+              float: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 630px){
+  body{
+    main{
+      .container{
+        padding-top: 40px;
+        padding-bottom: 40px;
+        .biographyContent{
+          .textBlockContent{
+            margin-top: 30px;
+            .block{
+              font-size: 14px;
+              padding-bottom: 18px;
+              .blockTitle{
+                font-size: 19px;
+                margin-bottom: 20px;
+
+              }
+              &:last-child{
+                padding-top: 18px;
+              }
+            }
+          }
+        }
+        .title{
+          font-size: 30px;
+        }
+        .text{
+          .titleImage{
+            font-size: 50px;
+          }
+          .otherText{
+            font-size: 14px;
+          }
+        }
+
+        &.contact{
+          .contactMe{
+            float: none;
+            width: 100%;
+            .messagePart{
+              float: none;
+              width: 100%;
+              margin-top: 30px;
+            }
+            .contactsPart{
+              float: none;
+              width: 100%;
+            }
+          }
+          .contactInfo{
+            float: none;
+            width: 100%;
+            text-align: center;
+            height: auto;
+            .block{
+              display: block;
+              text-align: left;
+              border-right: 0;
+              float: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1180px){
+  body{
+    main{
+      .container{
+        &.events{
+
+          .twoBlock{
+            &:nth-child(even){
+              float: none;
+            }
+            &:nth-child(odd){
+              float: none;
+            }
+            .eventBlock{
+              display: block;
+              margin-top: 60px;
+
+              .eventImage{
+                max-width: 100%;
+                float: left;
+              }
+              .eventContent{
+                float: left;
+                margin-left: 55px;
+                .eventTitle{
+                  font-size: 28px;
+                }
+                .eventText{
+                  margin-top:35px;
+                  .textBlock{
+                    color: #000000;
+                    margin-top: 33px;
+                    font-size: 18px;
+                    font-family: 'metropolislight';
+                    &:first-child{
+                      margin-top: 0;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
