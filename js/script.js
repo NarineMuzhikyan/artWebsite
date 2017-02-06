@@ -67,7 +67,8 @@ $(document).ready(function(){
         }
         $(navItems).addClass('animateTitle');
         close.addClass('animateItemClose');
-        $(navItems).addClass('navView')
+        $(navItems).addClass('navView');
+
     });
     $( ".menuClose" ).on( "click", function() {
         var navItems = $('.navItem');
