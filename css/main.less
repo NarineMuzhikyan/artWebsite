@@ -472,22 +472,41 @@ body{
             width: 47%;
             float: left;
             margin-right: 6%;
-            input{
-              font-family: 'metropolismedium';
-              font-size: 18px;
-              width: 100%;
-              display: block;
-              background: transparent;
-              border: none;
-              border-bottom: 1px solid #505050;
-              padding-bottom: 17px;
-              margin-bottom: 27px;
-              color: white;
-              &:active, &:focus{
-                outline: none;
-              }
-              &:last-child{
+            div:last-child{
+              input{
                 margin-bottom: 0;
+              }
+            }
+            div{
+              position: relative;
+              span{
+                transition: 0.3s;
+                bottom: 0;
+                position: absolute;
+                width: 0;
+                height: 1px;
+                display: block;
+                background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+              }
+              &:hover{
+                span{
+                  width: 100%;
+                }
+              }
+              input{
+                font-family: 'metropolismedium';
+                font-size: 18px;
+                width: 100%;
+                display: block;
+                background: transparent;
+                border: none;
+                border-bottom: 1px solid #505050;
+                padding-bottom: 17px;
+                margin-bottom: 27px;
+                color: white;
+                &:active, &:focus{
+                  outline: none;
+                }
               }
             }
           }

@@ -448,7 +448,25 @@ body main .container.contact .contactMe .contactsPart {
   float: left;
   margin-right: 6%;
 }
-body main .container.contact .contactMe .contactsPart input {
+body main .container.contact .contactMe .contactsPart div:last-child input {
+  margin-bottom: 0;
+}
+body main .container.contact .contactMe .contactsPart div {
+  position: relative;
+}
+body main .container.contact .contactMe .contactsPart div span {
+  transition: 0.3s;
+  bottom: 0;
+  position: absolute;
+  width: 0;
+  height: 1px;
+  display: block;
+  background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+}
+body main .container.contact .contactMe .contactsPart div:hover span {
+  width: 100%;
+}
+body main .container.contact .contactMe .contactsPart div input {
   font-family: 'metropolismedium';
   font-size: 18px;
   width: 100%;
@@ -460,12 +478,9 @@ body main .container.contact .contactMe .contactsPart input {
   margin-bottom: 27px;
   color: white;
 }
-body main .container.contact .contactMe .contactsPart input:active,
-body main .container.contact .contactMe .contactsPart input:focus {
+body main .container.contact .contactMe .contactsPart div input:active,
+body main .container.contact .contactMe .contactsPart div input:focus {
   outline: none;
-}
-body main .container.contact .contactMe .contactsPart input:last-child {
-  margin-bottom: 0;
 }
 body main .container.contact .contactMe .messagePart {
   float: left;
