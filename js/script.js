@@ -60,15 +60,28 @@ $(document).ready(function(){
     /*toggle menu*/
 
     $( ".menuIcon" ).on( "click", function() {
+        var navItems = $('.navItem');
+        var close =$('.menuClose');
         if($('.navigation').hasClass('w0')){
-            $('.navigation').removeClass('w0')
+            $('.navigation').removeClass('w0');
         }
-
+        $(navItems).addClass('animateTitle');
+        close.addClass('animateItemClose');
+        $(navItems).addClass('navView')
     });
-
     $( ".menuClose" ).on( "click", function() {
+        var navItems = $('.navItem');
         if(!$('.navigation').hasClass('w0')){
             $('.navigation').addClass('w0')
+        }
+        if($(navItems).hasClass('navView')){
+            $(navItems).removeClass('navView')
+        }
+        if($(navItems).hasClass('animateTitle')){
+            $(navItems).removeClass('animateTitle');
+        }
+        if($('.menuClose').hasClass('animateItemClose')){
+            $('.menuClose').removeClass('animateItemClose');
         }
     });
 

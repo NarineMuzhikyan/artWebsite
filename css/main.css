@@ -82,14 +82,33 @@ body main .container .navigation {
 }
 body main .container .navigation .menuClose {
   position: absolute;
-  top: 6.5%;
-  right: 6.5%;
+  top: 4.7%;
+  right: 5.7%;
   cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+body main .container .navigation .menuClose.animateItemClose .line:first-child {
+  animation-name: animateWidthFrom1;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose.animateItemClose .line:last-child {
+  animation-name: animateWidthFrom;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose:hover .line:first-child {
+  animation-name: animateWidthFrom1;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose:hover .line:last-child {
+  animation-name: animateWidthFrom;
+  animation-duration: 0.7s;
 }
 body main .container .navigation .menuClose .line {
   transition: 0.3s;
   position: absolute;
-  top: 0;
+  top: 15px;
+  left: -4px;
   width: 38px;
   height: 3px;
   background-color: white;
@@ -105,13 +124,13 @@ body main .container .navigation .name {
   left: 5.1%;
   font-size: 30px;
   font-family: 'metropolisbold';
-  color: #707070;
+  color: #bfbfbf;
 }
 body main .container .navigation nav {
   width: 35%;
   height: 86.4%;
   font-size: 50px;
-  color: #a5a5a5;
+  color: #828282;
   position: absolute;
   right: 5.1%;
   top: 13.6%;
@@ -121,7 +140,33 @@ body main .container .navigation nav .navItem {
   transition: 0.3s;
   cursor: pointer;
   padding: 5.3% 0;
+  width: 0;
+  overflow: hidden;
   border-bottom: 1px solid #a5a5a5;
+}
+body main .container .navigation nav .navItem.navView {
+  width: 100%;
+  overflow: visible;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(1) {
+  animation-name: animateMenuItem1;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(2) {
+  animation-name: animateMenuItem2;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(3) {
+  animation-name: animateMenuItem3;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(4) {
+  animation-name: animateMenuItem4;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(5) {
+  animation-name: animateMenuItem5;
+  animation-duration: 1.2s;
 }
 body main .container .navigation nav .navItem:first-child {
   border-top: 1px solid #a5a5a5;
@@ -496,13 +541,113 @@ body footer .footerItem {
 body footer .footerItem:last-child {
   margin-right: 0;
 }
-/*animation*/
+/*animations*/
 @-webkit-keyframes animateWidth {
   from {
     width: 0;
   }
   to {
     width: 38px;
+  }
+}
+@-webkit-keyframes animateWidthFrom {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 0;
+  }
+  100% {
+    width: 38px;
+  }
+}
+@-webkit-keyframes animateWidthFrom1 {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 38px;
+  }
+  100% {
+    width: 38px;
+  }
+}
+@-webkit-keyframes animateMenuItem1 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  40% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem2 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  20% {
+    width: 0;
+    overflow: hidden;
+  }
+  60% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem3 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  30% {
+    width: 0;
+    overflow: hidden;
+  }
+  70% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem4 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  40% {
+    width: 0;
+    overflow: hidden;
+  }
+  80% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem5 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  50% {
+    width: 0;
+    overflow: hidden;
+  }
+  100% {
+    width: 100%;
+    overflow: visible;
   }
 }
 /*responsive*/
