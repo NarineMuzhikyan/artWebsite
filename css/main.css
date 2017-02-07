@@ -72,6 +72,54 @@ body main .container .menuIcon .line {
 body main .container .menuIcon .line:last-child {
   margin-bottom: 0;
 }
+body main .container .fixedNavigation {
+  z-index: 100;
+  width: 100%;
+  top: 0;
+  height: 50px;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.8);
+}
+body main .container .fixedNavigation.h0 {
+  transition: 0.3s;
+  height: 0;
+  overflow: hidden;
+}
+body main .container .fixedNavigation nav {
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  color: #828282;
+  position: static;
+}
+body main .container .fixedNavigation nav .navItem {
+  margin-left: 20px;
+  padding: 10px;
+  transition: 0.3s;
+  cursor: pointer;
+  overflow: hidden;
+  border-bottom: 0;
+  position: relative;
+  float: left;
+  width: auto;
+}
+body main .container .fixedNavigation nav .navItem:first-child {
+  border-top: 0;
+}
+body main .container .fixedNavigation nav .navItem:hover {
+  color: white;
+  transition: 0.3s;
+  border-bottom: 0;
+}
+body main .container .fixedNavigation nav .navItem:hover span {
+  transition: 0.3s;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  display: block;
+  background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+}
 body main .container .navigation {
   top: 0;
   position: absolute;
@@ -254,6 +302,7 @@ body main .container .text .socialPart .social {
   float: right;
 }
 body main .container .text .socialPart .social i {
+  cursor: pointer;
   margin-right: 16px;
   font-size: 20px;
   display: block;
@@ -557,6 +606,7 @@ body main .container.contact .contactInfo .block:last-child {
   border-right: 0;
 }
 body main .container.contact .contactInfo .block .social i {
+  cursor: pointer;
   margin-right: 20px;
 }
 body main .container.contact .contactInfo .block .social i:last-child {
