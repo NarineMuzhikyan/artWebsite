@@ -12,8 +12,10 @@
   float: right;
 }
 .displayBlock{
+
   display: block;
 }
+
 .displayNone{
   display: none;
 }
@@ -95,6 +97,9 @@ body{
           color: #828282;
           position: static;
           .navItem{
+            &.active{
+              color: white;
+            }
             margin-left: 20px;
             padding: 10px;
             transition: 0.3s;
@@ -192,6 +197,9 @@ body{
           top: 13.6%;
           text-align: right;
           .navItem{
+            &.active{
+              color: white;
+            }
             transition: 0.3s;
             cursor: pointer;
             padding: 5.3% 0;

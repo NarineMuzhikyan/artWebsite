@@ -103,6 +103,9 @@ body main .container .fixedNavigation nav .navItem {
   float: left;
   width: auto;
 }
+body main .container .fixedNavigation nav .navItem.active {
+  color: white;
+}
 body main .container .fixedNavigation nav .navItem:first-child {
   border-top: 0;
 }
@@ -192,6 +195,9 @@ body main .container .navigation nav .navItem {
   overflow: hidden;
   border-bottom: 1px solid #a5a5a5;
   position: relative;
+}
+body main .container .navigation nav .navItem.active {
+  color: white;
 }
 body main .container .navigation nav .navItem span {
   transition: 0.3s;
