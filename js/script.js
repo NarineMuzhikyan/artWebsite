@@ -98,6 +98,7 @@ $(document).ready(function(){
         }
 
       var items = $(".navItem");
+        console.log(items[items.length-1])
 
       for(var i=0; i<items.length-1; i++){
         var iddCurrent = $(items[i]).data('id');
@@ -107,13 +108,24 @@ $(document).ready(function(){
         var iddPrev = $(items[i+1]).data('id');
         var elementPrev= document.getElementById(iddPrev);
         var prev =$(elementPrev).offset();
-        if(offCurrent.top>=itemCurrent.top && offCurrent.top<=prev.top){
-            console.log(items[i]);
+        if(offCurrent.top>=itemCurrent.top && offCurrent.top<prev.top){
+
           $(items[i]).addClass('active')
         }else{
             if($(items[i]).hasClass('active')){
               $(items[i]).removeClass('active')
             }
+        }
+      }
+      var lastid= $(items[items.length-1]).data('id');
+      var lastElement = document.getElementById(lastid);
+      var menuLast = $(items[items.length-1]).offset();
+      var lastBlock = $(lastElement).offset();
+      if(menuLast.top>=lastBlock.top){
+        $(items[items.length-1]).addClass('active')
+      }else{
+        if($(items[items.length-1]).hasClass('active')){
+          $(items[items.length-1]).removeClass('active')
         }
       }
 
@@ -123,7 +135,7 @@ $(document).ready(function(){
       var element= document.getElementById(id);
       var elementOffset = $(element).offset();
       $('html, body').animate({
-          scrollTop:elementOffset.top
+          scrollTop:elementOffset.top+1
       }, 'slow');
     });
 
