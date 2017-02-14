@@ -95,16 +95,25 @@ body main .container:first-child {
 body main .container .menuPart {
   position: static;
 }
+body main .container .menuPart.noneMenu {
+  display: none;
+}
 body main .container .menuPart.fixedTopMenu {
+  transition: 0.3s;
   position: fixed;
-  width: 100%;
+  width: 100px;
   top: 0;
   background-color: black;
-  height: 50px;
+  height: 70px;
   z-index: 22;
+  right: 0;
 }
 body main .container .menuPart.fixedTopMenu .menuIcon {
-  top: 19%;
+  top: 30%;
+  left: 33%;
+}
+body main .container .menuPart.fixedTopMenu .menuIcon.displayNone {
+  display: none;
 }
 body main .container .menuPart .menuIcon {
   position: absolute;
@@ -112,6 +121,9 @@ body main .container .menuPart .menuIcon {
   right: 5.1%;
   color: white;
   cursor: pointer;
+}
+body main .container .menuPart .menuIcon.displayNone {
+  display: none;
 }
 body main .container .menuPart .menuIcon:hover {
   /*.line:nth-child(1){

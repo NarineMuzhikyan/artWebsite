@@ -50,15 +50,24 @@ body{
       }
       .menuPart{
         position: static;
+        &.noneMenu{
+          display: none;
+        }
         &.fixedTopMenu{
+          transition: 0.3s;
           position: fixed;
-          width: 100%;
+          width: 100px;
           top: 0;
           background-color: black;
-          height: 50px;
+          height: 70px;
           z-index: 22;
+          right: 0;
           .menuIcon{
-            top: 19%;
+            top: 30%;
+            left: 33%;
+            &.displayNone{
+              display: none;
+            }
           }
         }
         .menuIcon{
@@ -67,6 +76,9 @@ body{
           right: 5.1%;
           color: white;
           cursor: pointer;
+          &.displayNone{
+            display: none;
+          }
           &:hover{
             /*.line:nth-child(1){
               animation-name: animateWidth;

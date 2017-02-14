@@ -67,6 +67,8 @@ $(document).ready(function(){
         $(navItems).addClass('animateTitle');
         close.addClass('animateItemClose');
         $(navItems).addClass('navView');
+        $('.menuPart').addClass('w0')
+
 
     });
     $( ".menuClose" ).on( "click", function() {
@@ -82,6 +84,9 @@ $(document).ready(function(){
         }
         if($('.menuClose').hasClass('animateItemClose')){
             $('.menuClose').removeClass('animateItemClose');
+        }
+        if($('.menuPart').hasClass('w0')){
+            $('.menuPart').removeClass('w0');
         }
     });
 
