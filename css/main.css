@@ -35,93 +35,107 @@ body main .container {
   padding-right: 5.1%;
   padding-top: 100px;
   padding-bottom: 100px;
+  /* .fixedNavigation{
+        z-index: 100;
+        width: 100%;
+        top:0;
+        height: 50px;
+        position: fixed;
+        background: rgba(0, 0, 0, 0.8);
+        &.h0{
+          transition: 0.3s;
+          height: 0;
+          overflow: hidden;
+        }
+        nav{
+          width: 100%;
+          height: 100%;
+          font-size: 20px;
+          color: #828282;
+          position: static;
+          .navItem{
+            &.active{
+              color: white;
+            }
+            margin-left: 20px;
+            padding: 10px;
+            transition: 0.3s;
+            cursor: pointer;
+            overflow: hidden;
+            border-bottom: 0;
+            position: relative;
+            float: left;
+            width: auto;
+            &:first-child{
+              border-top: 0;
+            }
+            &:hover{
+              color: white;
+              transition: 0.3s;
+              border-bottom: 0;
+              span{
+                transition: 0.3s;
+                bottom: 0;
+                position: absolute;
+                width: 100%;
+                height: 1px;
+                display: block;
+                background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+              }
+            }
+          }
+        }
+      }*/
 }
 body main .container:first-child {
   padding: 0;
   margin: 0;
   position: relative;
 }
-body main .container .menuIcon {
+body main .container .menuPart {
+  position: static;
+}
+body main .container .menuPart.fixedTopMenu {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: black;
+  height: 50px;
+  z-index: 22;
+}
+body main .container .menuPart.fixedTopMenu .menuIcon {
+  top: 19%;
+}
+body main .container .menuPart .menuIcon {
   position: absolute;
   top: 5.1%;
   right: 5.1%;
   color: white;
   cursor: pointer;
 }
-body main .container .menuIcon:hover {
+body main .container .menuPart .menuIcon:hover {
   /*.line:nth-child(1){
-            animation-name: animateWidth;
-            animation-duration: 0.1s;
-          }*/
+              animation-name: animateWidth;
+              animation-duration: 0.1s;
+            }*/
 }
-body main .container .menuIcon:hover .line:nth-child(2) {
+body main .container .menuPart .menuIcon:hover .line:nth-child(2) {
   animation-name: animateWidth;
   animation-duration: 0.5s;
 }
-body main .container .menuIcon:hover .line:nth-child(3) {
+body main .container .menuPart .menuIcon:hover .line:nth-child(3) {
   animation-name: animateWidth;
   animation-duration: 1s;
 }
-body main .container .menuIcon .line {
+body main .container .menuPart .menuIcon .line {
   transition: 0.3s;
   width: 38px;
   height: 3px;
   background-color: white;
   margin-bottom: 9px;
 }
-body main .container .menuIcon .line:last-child {
+body main .container .menuPart .menuIcon .line:last-child {
   margin-bottom: 0;
-}
-body main .container .fixedNavigation {
-  z-index: 100;
-  width: 100%;
-  top: 0;
-  height: 50px;
-  position: fixed;
-  background: rgba(0, 0, 0, 0.8);
-}
-body main .container .fixedNavigation.h0 {
-  transition: 0.3s;
-  height: 0;
-  overflow: hidden;
-}
-body main .container .fixedNavigation nav {
-  width: 100%;
-  height: 100%;
-  font-size: 20px;
-  color: #828282;
-  position: static;
-}
-body main .container .fixedNavigation nav .navItem {
-  margin-left: 20px;
-  padding: 10px;
-  transition: 0.3s;
-  cursor: pointer;
-  overflow: hidden;
-  border-bottom: 0;
-  position: relative;
-  float: left;
-  width: auto;
-}
-body main .container .fixedNavigation nav .navItem.active {
-  color: white;
-}
-body main .container .fixedNavigation nav .navItem:first-child {
-  border-top: 0;
-}
-body main .container .fixedNavigation nav .navItem:hover {
-  color: white;
-  transition: 0.3s;
-  border-bottom: 0;
-}
-body main .container .fixedNavigation nav .navItem:hover span {
-  transition: 0.3s;
-  bottom: 0;
-  position: absolute;
-  width: 100%;
-  height: 1px;
-  display: block;
-  background: linear-gradient(to right, #252525 40%, #ffffff 100%);
 }
 body main .container .navigation {
   top: 0;
@@ -130,6 +144,10 @@ body main .container .navigation {
   width: 100%;
   height: 100%;
   transition: 0.3s;
+}
+body main .container .navigation.fixNav {
+  position: fixed;
+  z-index: 33;
 }
 body main .container .navigation .menuClose {
   position: absolute;

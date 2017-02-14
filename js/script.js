@@ -92,13 +92,15 @@ $(document).ready(function(){
 
         if(scroll>= $(container[1]).offset().top){
             $('.fixedNavigation').removeClass('h0');
+            $('.menuPart').addClass('fixedTopMenu');
+            $('.navigation').addClass('fixNav');
 
         }else {
-            $('.fixedNavigation').addClass('h0');
+            $('.menuPart').removeClass('fixedTopMenu');
+            $('.navigation').removeClass('fixNav');
         }
 
       var items = $(".navItem");
-        console.log(items[items.length-1])
 
       for(var i=0; i<items.length-1; i++){
         var iddCurrent = $(items[i]).data('id');
