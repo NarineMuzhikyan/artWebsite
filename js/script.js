@@ -55,7 +55,14 @@ $(document).ready(function(){
             }
         }
     });
-    $('#video-gallery').lightGallery();
+    $('#video-gallery').lightGallery({
+        youtubePlayerParams: {
+            modestbranding: 1,
+            showinfo: 0,
+            rel: 0,
+            controls: 0
+        }
+    });
 
     /*toggle menu*/
     $( ".menuIcon" ).on( "click", function() {
@@ -135,7 +142,6 @@ $(document).ready(function(){
           $(items[items.length-1]).removeClass('active')
         }
       }
-
     });
     $( ".navItem " ).on( "click", function(e) {
       var id=$(this).data("id");
@@ -145,5 +151,9 @@ $(document).ready(function(){
           scrollTop:elementOffset.top+1
       }, 'slow');
     });
+
+    //video part
+
+    
 
 });

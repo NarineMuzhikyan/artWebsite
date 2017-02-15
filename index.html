@@ -77,15 +77,6 @@
                 </div>-->
             </nav>
         </div>
-        <!--<div class="fixedNavigation h0">
-            <nav class="clear">
-                <div class="navItem" data-id="home">Home</div>
-                <div class="navItem" data-id="bio">Biography</div>
-                <div class="navItem" data-id="events">Events</div>
-                <div class="navItem" data-id="videos">Videos</div>
-                <div class="navItem" data-id="contact">Contact</div>
-            </nav>
-        </div>-->
     </div>
     <div class="container whiteBackground" id="bio">
         <div class="title">Biography</div>
@@ -175,17 +166,23 @@
     </div>
     <div class="container videos" id="videos">
         <div class="title">Videos</div>
-        <div id="video-gallery">
-            <div class=" videoCarousel owl-carousel owl-theme">
-                <a class="itemPart" data-src="https://www.youtube.com/watch?v=meBbDqAXago" href="" data-poster="https://www.youtube.com/watch?v=meBbDqAXago" >
-                    <img class="itemPart" src="img/biography/biography1.jpg"/>
-                </a>
-                <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago" data-poster="https://www.youtube.com/watch?v=meBbDqAXago" >
-                    <img class="itemPart" src="img/biography/biography2.jpg"/>
-                </a>
-                <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago" data-poster="https://www.youtube.com/watch?v=meBbDqAXago" >
-                    <img class="itemPart" src="img/biography/biography3.jpg"/>
-                </a>
+        <div>
+            <div class=" videoCarousel owl-carousel owl-theme" id="video-gallery">
+                <div data-src=img/biography/biography1.jpg>
+                    <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago">
+                        <img class="itemPart" src="img/biography/biography1.jpg"/>
+                    </a>
+                </div>
+                <div data-src=img/biography/biography2.jpg>
+                    <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago">
+                        <img class="itemPart" src="img/biography/biography2.jpg"/>
+                    </a>
+                </div>
+                <div data-src=img/biography/biography3.jpg>
+                    <a class="itemPart" href="https://www.youtube.com/watch?v=meBbDqAXago">
+                        <img class="itemPart" src="img/biography/biography3.jpg"/>
+                    </a>
+                </div>
 
                 <!--<div class="itemPart"><img src="img/biography/biography1.jpg" alt=""></div>
                 <div class="itemPart"><img src="img/biography/biography2.jpg" alt=""></div>
@@ -248,7 +245,7 @@
 </footer>
 <script src="node_modules/jquery/dist/jquery.min.js"></script>
 <script src="lib/OwlCarousel2-2.2.0/dist/owl.carousel.min.js"></script>
-<script src="node_modules/lightgallery/dist/js/lightgallery.min.js"></script>
+<script src="node_modules/lightgallery/dist/js/lightgallery.js"></script>
 <script src="node_modules/lg-thumbnail/dist/lg-thumbnail.min.js"></script>
 <script src="node_modules/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
 <script src="js/script.js"></script>
