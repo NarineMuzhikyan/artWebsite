@@ -1,0 +1,904 @@
+.clear:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.floatLeft {
+  float: left;
+}
+.floatRight {
+  float: right;
+}
+.displayBlock {
+  display: block;
+}
+.displayNone {
+  display: none;
+}
+.w0 {
+  width: 0 !important;
+  overflow: hidden;
+  transition: 0.3s;
+}
+.whiteBackground {
+  background-color: white;
+  color: #0d0d0d;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #eaeaea;
+}
+body main .container {
+  padding-left: 5.1%;
+  padding-right: 5.1%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* .fixedNavigation{
+        z-index: 100;
+        width: 100%;
+        top:0;
+        height: 50px;
+        position: fixed;
+        background: rgba(0, 0, 0, 0.8);
+        &.h0{
+          transition: 0.3s;
+          height: 0;
+          overflow: hidden;
+        }
+        nav{
+          width: 100%;
+          height: 100%;
+          font-size: 20px;
+          color: #828282;
+          position: static;
+          .navItem{
+            &.active{
+              color: white;
+            }
+            margin-left: 20px;
+            padding: 10px;
+            transition: 0.3s;
+            cursor: pointer;
+            overflow: hidden;
+            border-bottom: 0;
+            position: relative;
+            float: left;
+            width: auto;
+            &:first-child{
+              border-top: 0;
+            }
+            &:hover{
+              color: white;
+              transition: 0.3s;
+              border-bottom: 0;
+              span{
+                transition: 0.3s;
+                bottom: 0;
+                position: absolute;
+                width: 100%;
+                height: 1px;
+                display: block;
+                background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+              }
+            }
+          }
+        }
+      }*/
+}
+body main .container:first-child {
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+body main .container .menuPart {
+  position: static;
+}
+body main .container .menuPart.noneMenu {
+  display: none;
+}
+body main .container .menuPart.fixedTopMenu {
+  transition: 0.3s;
+  position: fixed;
+  width: 100px;
+  top: 0;
+  background-color: black;
+  height: 70px;
+  z-index: 22;
+  right: 0;
+}
+body main .container .menuPart.fixedTopMenu .menuIcon {
+  top: 30%;
+  left: 33%;
+}
+body main .container .menuPart.fixedTopMenu .menuIcon.displayNone {
+  display: none;
+}
+body main .container .menuPart .menuIcon {
+  position: absolute;
+  top: 5.1%;
+  right: 5.1%;
+  color: white;
+  cursor: pointer;
+}
+body main .container .menuPart .menuIcon.displayNone {
+  display: none;
+}
+body main .container .menuPart .menuIcon:hover {
+  /*.line:nth-child(1){
+              animation-name: animateWidth;
+              animation-duration: 0.1s;
+            }*/
+}
+body main .container .menuPart .menuIcon:hover .line:nth-child(2) {
+  animation-name: animateWidth;
+  animation-duration: 0.5s;
+}
+body main .container .menuPart .menuIcon:hover .line:nth-child(3) {
+  animation-name: animateWidth;
+  animation-duration: 1s;
+}
+body main .container .menuPart .menuIcon .line {
+  transition: 0.3s;
+  width: 38px;
+  height: 3px;
+  background-color: white;
+  margin-bottom: 9px;
+}
+body main .container .menuPart .menuIcon .line:last-child {
+  margin-bottom: 0;
+}
+body main .container .navigation {
+  top: 0;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.9);
+  width: 100%;
+  height: 100%;
+  transition: 0.3s;
+}
+body main .container .navigation.fixNav {
+  position: fixed;
+  z-index: 33;
+}
+body main .container .navigation .menuClose {
+  position: absolute;
+  top: 4.7%;
+  right: 5.7%;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+body main .container .navigation .menuClose.animateItemClose .line:first-child {
+  animation-name: animateWidthFrom1;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose.animateItemClose .line:last-child {
+  animation-name: animateWidthFrom;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose:hover .line:first-child {
+  animation-name: animateWidthFrom1;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose:hover .line:last-child {
+  animation-name: animateWidthFrom;
+  animation-duration: 0.7s;
+}
+body main .container .navigation .menuClose .line {
+  transition: 0.3s;
+  position: absolute;
+  top: 15px;
+  left: -4px;
+  width: 38px;
+  height: 3px;
+  background-color: white;
+  margin-bottom: 9px;
+  transform: rotate(40deg);
+}
+body main .container .navigation .menuClose .line:last-child {
+  transform: rotate(-40deg);
+}
+body main .container .navigation .name {
+  position: absolute;
+  top: 5.1%;
+  left: 5.1%;
+  font-size: 30px;
+  font-family: 'metropolisbold';
+  color: #bfbfbf;
+}
+body main .container .navigation nav {
+  width: 35%;
+  height: 86.4%;
+  font-size: 50px;
+  color: #828282;
+  position: absolute;
+  right: 5.1%;
+  top: 13.6%;
+  text-align: right;
+}
+body main .container .navigation nav .navItem {
+  transition: 0.3s;
+  cursor: pointer;
+  padding: 5.3% 0;
+  width: 0;
+  overflow: hidden;
+  border-bottom: 1px solid #a5a5a5;
+  position: relative;
+}
+body main .container .navigation nav .navItem.active {
+  color: white;
+}
+body main .container .navigation nav .navItem span {
+  transition: 0.3s;
+  bottom: 0;
+  position: absolute;
+  width: 0;
+  height: 1px;
+  display: block;
+  background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+}
+body main .container .navigation nav .navItem.navView {
+  width: 100%;
+  overflow: visible;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(1) {
+  animation-name: animateMenuItem1;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(2) {
+  animation-name: animateMenuItem2;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(3) {
+  animation-name: animateMenuItem3;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(4) {
+  animation-name: animateMenuItem4;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem.animateTitle:nth-child(5) {
+  animation-name: animateMenuItem5;
+  animation-duration: 1.2s;
+}
+body main .container .navigation nav .navItem:first-child {
+  border-top: 1px solid #a5a5a5;
+}
+body main .container .navigation nav .navItem:hover {
+  color: white;
+  transition: 0.3s;
+  border-bottom: 1px solid transparent;
+}
+body main .container .navigation nav .navItem:hover span {
+  transition: 0.3s;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  display: block;
+  background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+}
+body main .container .navigation nav .social {
+  margin-top: 5.1%;
+}
+body main .container .navigation nav .social i {
+  cursor: pointer;
+  margin-right: 16px;
+  font-size: 20px;
+  display: block;
+  float: right;
+}
+body main .container .navigation nav .social i:first-child {
+  margin-right: 0;
+}
+body main .container .image {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+body main .container .title {
+  font-size: 40px;
+  width: 23%;
+  border-bottom: 1px solid;
+  padding-bottom: 30px;
+}
+body main .container .text {
+  position: absolute;
+  top: 28.5%;
+  bottom: 5.1%;
+  color: white;
+  left: 5.1%;
+  right: 5.1%;
+  width: 89.8%;
+  height: 66.4vh;
+}
+body main .container .text .titleImage {
+  font-size: 130px;
+  font-family: 'ostrich_sansmedium';
+}
+body main .container .text .otherText {
+  font-size: 28px;
+  font-family: 'metropolisextra_light';
+}
+body main .container .text .socialPart {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+}
+body main .container .text .socialPart img {
+  float: left;
+  height: 20px;
+}
+body main .container .text .socialPart .social {
+  float: right;
+}
+body main .container .text .socialPart .social i {
+  cursor: pointer;
+  margin-right: 16px;
+  font-size: 20px;
+  display: block;
+  float: left;
+}
+body main .container .text .socialPart .social i:last-child {
+  margin-right: 0;
+}
+body main .container .biographyContent .textBlockContent {
+  float: left;
+  margin-top: 70px;
+  width: 50%;
+  margin-right: 2%;
+}
+body main .container .biographyContent .textBlockContent .block {
+  font-size: 18px;
+  padding-bottom: 50px;
+}
+body main .container .biographyContent .textBlockContent .block:last-child {
+  padding-top: 50px;
+  padding-bottom: 0;
+  border-top: 1px solid #b6b6b6;
+}
+body main .container .biographyContent .textBlockContent .block .blockTitle {
+  font-size: 24px;
+  margin-bottom: 28px;
+}
+body main .container .biographyContent .biographyImage {
+  float: right;
+  width: 48%;
+}
+body main .container .biographyCarousel {
+  margin-top: 68px;
+  position: relative;
+}
+body main .container .biographyCarousel .owl-nav {
+  width: 0;
+  height: 0;
+  margin-top: 0;
+}
+body main .container .biographyCarousel .owl-nav .owl-prev {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  left: 0;
+  margin: 0;
+  width: 50px;
+  height: 100%;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.58);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body main .container .biographyCarousel .owl-nav .owl-prev:hover {
+  background: rgba(255, 255, 255, 0.78);
+}
+body main .container .biographyCarousel .owl-nav .owl-next {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  right: 0;
+  margin: 0;
+  width: 50px;
+  height: 100%;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.58);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body main .container .biographyCarousel .owl-nav .owl-next:hover {
+  background: rgba(255, 255, 255, 0.78);
+}
+body main .container.events {
+  background-image: url(../images/3.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  font-family: 'metropolismedium';
+}
+body main .container.events .twoBlock:nth-child(even) {
+  float: left;
+}
+body main .container.events .twoBlock:nth-child(odd) {
+  float: right;
+}
+body main .container.events .twoBlock .eventBlock {
+  display: block;
+  margin-top: 60px;
+}
+body main .container.events .twoBlock .eventBlock .eventImage {
+  max-width: 100%;
+  float: left;
+}
+body main .container.events .twoBlock .eventBlock .eventContent {
+  float: left;
+  margin-left: 55px;
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventTitle {
+  font-size: 28px;
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventText {
+  margin-top: 35px;
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock {
+  color: #000000;
+  margin-top: 33px;
+  font-size: 18px;
+  font-family: 'metropolislight';
+}
+body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock:first-child {
+  margin-top: 0;
+}
+body main .container.videos {
+  padding-left: 0;
+  padding-right: 0;
+  background-color: white;
+}
+body main .container.videos .title {
+  margin-left: 5.1%;
+  margin-right: 5.1%;
+}
+body main .container.videos .videoCarousel {
+  margin-top: 100px;
+}
+body main .container.videos .videoCarousel .owl-item .itemPart {
+  background-color: white;
+  transform: scale(0.8);
+}
+body main .container.videos .videoCarousel .owl-item .itemPart img {
+  -webkit-filter: opacity(50%);
+  filter: opacity(50%);
+}
+body main .container.videos .videoCarousel .owl-item.active .itemPart {
+  background-color: transparent;
+  transform: scale(1);
+}
+body main .container.videos .videoCarousel .owl-item.active .itemPart img {
+  -webkit-filter: opacity(100%);
+  filter: opacity(100%);
+}
+body main .container.videos .videoCarousel .owl-nav {
+  width: 0;
+  height: 0;
+  margin-top: 0;
+}
+body main .container.videos .videoCarousel .owl-nav .owl-prev {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  left: 6%;
+  margin: 0;
+  width: 50px;
+  height: 100%;
+  padding: 0;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body main .container.videos .videoCarousel .owl-nav .owl-next {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  right: 6%;
+  margin: 0;
+  width: 50px;
+  height: 100%;
+  padding: 0;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body main .container.contact {
+  background-image: url(../images/4.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  font-family: 'metropolismedium';
+}
+body main .container.contact .contactMe {
+  margin-top: 70px;
+  width: 50%;
+  float: left;
+}
+body main .container.contact .contactMe .contactsPart {
+  width: 47%;
+  float: left;
+  margin-right: 6%;
+}
+body main .container.contact .contactMe .contactsPart div:last-child input {
+  margin-bottom: 0;
+}
+body main .container.contact .contactMe .contactsPart div {
+  position: relative;
+}
+body main .container.contact .contactMe .contactsPart div span {
+  transition: 0.3s;
+  bottom: 0;
+  position: absolute;
+  width: 0;
+  height: 1px;
+  display: block;
+  background: linear-gradient(to right, #252525 40%, #ffffff 100%);
+}
+body main .container.contact .contactMe .contactsPart div:hover span {
+  width: 100%;
+}
+body main .container.contact .contactMe .contactsPart div input {
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #505050;
+  padding-bottom: 17px;
+  margin-bottom: 27px;
+  color: white;
+}
+body main .container.contact .contactMe .contactsPart div input:active,
+body main .container.contact .contactMe .contactsPart div input:focus {
+  outline: none;
+}
+body main .container.contact .contactMe .messagePart {
+  float: left;
+  height: 177px;
+  width: 40%;
+}
+body main .container.contact .contactMe .messagePart .messageBlockTitle {
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  color: darkgrey;
+  margin-bottom: 18px;
+}
+body main .container.contact .contactMe .messagePart .textareaPart {
+  position: relative;
+  height: 100%;
+}
+body main .container.contact .contactMe .messagePart .textareaPart textarea {
+  background: transparent;
+  color: white;
+  border: 1px solid #505050;
+  height: 74%;
+  width: 100%;
+  resize: none;
+}
+body main .container.contact .contactMe .messagePart .textareaPart textarea:active,
+body main .container.contact .contactMe .messagePart .textareaPart textarea:focus {
+  outline: none;
+}
+body main .container.contact .contactMe .messagePart .textareaPart button {
+  position: absolute;
+  padding: 13px 32px;
+  background: transparent;
+  color: #505050;
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  border: 1px solid #505050;
+  right: -6px;
+  top: 87px;
+}
+body main .container.contact .contactMe .messagePart .textareaPart button:active,
+body main .container.contact .contactMe .messagePart .textareaPart button:focus {
+  outline: none;
+}
+body main .container.contact .contactInfo {
+  float: right;
+  width: 50%;
+  height: 136px;
+  margin-top: 110px;
+  background: rgba(0, 0, 0, 0.4);
+  font-family: 'metropolismedium';
+  font-size: 18px;
+  /*padding: 68px 0 68px 68px;*/
+}
+body main .container.contact .contactInfo i {
+  font-size: 24px;
+}
+body main .container.contact .contactInfo i.fa-envelope-o {
+  margin-right: 20px;
+}
+body main .container.contact .contactInfo i.fa-phone {
+  margin-right: 20px;
+}
+body main .container.contact .contactInfo .block {
+  float: left;
+  margin-top: 5%;
+  padding-right: 4%;
+  padding-left: 4%;
+  color: #b4b4b4;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-right: 1px solid #7e7e7e;
+}
+body main .container.contact .contactInfo .block:last-child {
+  border-right: 0;
+}
+body main .container.contact .contactInfo .block .social i {
+  cursor: pointer;
+  margin-right: 20px;
+}
+body main .container.contact .contactInfo .block .social i:last-child {
+  margin-right: 0;
+}
+body footer {
+  font-family: 'metropolislight';
+  font-size: 16px;
+  color: #000000;
+  padding: 25px 5.1%;
+}
+body footer .footerItem {
+  float: left;
+  margin-right: 20px;
+  cursor: pointer;
+}
+body footer .footerItem:last-child {
+  margin-right: 0;
+}
+/*animations*/
+@-webkit-keyframes animateWidth {
+  from {
+    width: 0;
+  }
+  to {
+    width: 38px;
+  }
+}
+@-webkit-keyframes animateWidthFrom {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 0;
+  }
+  100% {
+    width: 38px;
+  }
+}
+@-webkit-keyframes animateWidthFrom1 {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 38px;
+  }
+  100% {
+    width: 38px;
+  }
+}
+@-webkit-keyframes animateMenuItem1 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  40% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem2 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  20% {
+    width: 0;
+    overflow: hidden;
+  }
+  60% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem3 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  30% {
+    width: 0;
+    overflow: hidden;
+  }
+  70% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem4 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  40% {
+    width: 0;
+    overflow: hidden;
+  }
+  80% {
+    width: 100%;
+    overflow: visible;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes animateMenuItem5 {
+  0% {
+    width: 0;
+    overflow: hidden;
+  }
+  50% {
+    width: 0;
+    overflow: hidden;
+  }
+  100% {
+    width: 100%;
+    overflow: visible;
+  }
+}
+/*responsive*/
+@media screen and (max-width: 1806px) and (min-width: 930px) {
+  body main .container.contact .contactMe {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactMe .messagePart {
+    float: right;
+  }
+  body main .container.contact .contactInfo {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  body main .container.contact .contactInfo .block {
+    margin-top: 4%;
+    float: none;
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 930px) and (min-width: 630px) {
+  body main .container.contact .contactMe {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactMe .messagePart {
+    float: right;
+  }
+  body main .container.contact .contactInfo {
+    float: none;
+    width: 100%;
+    text-align: center;
+    height: auto;
+  }
+  body main .container.contact .contactInfo .block {
+    display: block;
+    text-align: left;
+    border-right: 0;
+    float: none;
+  }
+}
+@media screen and (max-width: 630px) {
+  body main .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  body main .container .biographyContent .textBlockContent {
+    margin-top: 30px;
+  }
+  body main .container .biographyContent .textBlockContent .block {
+    font-size: 14px;
+    padding-bottom: 18px;
+  }
+  body main .container .biographyContent .textBlockContent .block .blockTitle {
+    font-size: 19px;
+    margin-bottom: 20px;
+  }
+  body main .container .biographyContent .textBlockContent .block:last-child {
+    padding-top: 18px;
+  }
+  body main .container .title {
+    font-size: 30px;
+  }
+  body main .container .text .titleImage {
+    font-size: 50px;
+  }
+  body main .container .text .otherText {
+    font-size: 14px;
+  }
+  body main .container.contact .contactMe {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactMe .messagePart {
+    float: none;
+    width: 100%;
+    margin-top: 30px;
+  }
+  body main .container.contact .contactMe .contactsPart {
+    float: none;
+    width: 100%;
+  }
+  body main .container.contact .contactInfo {
+    float: none;
+    width: 100%;
+    text-align: center;
+    height: auto;
+  }
+  body main .container.contact .contactInfo .block {
+    display: block;
+    text-align: left;
+    border-right: 0;
+    float: none;
+  }
+}
+@media screen and (max-width: 1180px) {
+  body main .container.events .twoBlock:nth-child(even) {
+    float: none;
+  }
+  body main .container.events .twoBlock:nth-child(odd) {
+    float: none;
+  }
+  body main .container.events .twoBlock .eventBlock {
+    display: block;
+    margin-top: 60px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventImage {
+    max-width: 100%;
+    float: left;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent {
+    float: left;
+    margin-left: 55px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventTitle {
+    font-size: 28px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventText {
+    margin-top: 35px;
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock {
+    color: #000000;
+    margin-top: 33px;
+    font-size: 18px;
+    font-family: 'metropolislight';
+  }
+  body main .container.events .twoBlock .eventBlock .eventContent .eventText .textBlock:first-child {
+    margin-top: 0;
+  }
+}
