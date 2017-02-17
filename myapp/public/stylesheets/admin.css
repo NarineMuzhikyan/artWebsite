@@ -25,6 +25,9 @@ body {
 .adminContent .imagesPart {
   margin-top: 50px;
 }
+.adminContent .imagesPart .upload {
+  margin-top: 30px;
+}
 .adminContent .eventsPart {
   margin-top: 50px;
 }
