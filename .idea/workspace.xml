@@ -2,1151 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52f988c5-a991-4cb1-9750-7bd14a34eccc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/1-1600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/1-375.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/1-480.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/13-1600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/13-375.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/13-480.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/2-1600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/2-375.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/2-480.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/4-1600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/4-375.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/4-480.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/thumb-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/thumb-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/thumb-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/img/thumb-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/fonts/lg.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/fonts/lg.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/fonts/lg.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/img/video-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/img/vimeo-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/img/youtube-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/lib/lg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/fonts/lg.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/fonts/lg.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/fonts/lg.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/img/video-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/img/vimeo-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/img/youtube-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/javascripts/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/dist/lg-fullscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/dist/lg-fullscreen.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/src/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/src/lg-fullscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/dist/lg-thumbnail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/dist/lg-thumbnail.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/src/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lg-thumbnail/src/lg-thumbnail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-autoplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-autoplay.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-fullscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-fullscreen.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-hash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-pager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-pager.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-share.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-share.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-thumbnail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-thumbnail.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-video.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-zoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lg-zoom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lightgallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/demo/js/lightgallery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/css/lg-fb-comment-box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/css/lg-fb-comment-box.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/css/lg-transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/css/lg-transitions.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/css/lightgallery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/css/lightgallery.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/fonts/lg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/js/lightgallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/dist/js/lightgallery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/lib/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/lib/picturefill.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/lightGallery.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/selection.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/css/lg-fb-comment-box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/css/lg-fb-comment-box.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/css/lg-transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/css/lg-transitions.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/css/lightgallery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/css/lightgallery.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/fonts/lg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/js/lightgallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-animations.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-autoplay.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-fb-comment-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-fullscreen.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-pager.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-share.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-theme-default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-thumbnail.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-video.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lg-zoom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/lightgallery.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/src/sass/prepros.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/test/lightgallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/lib/lightgallery/test/lightgallery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/views/index.ejs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/createDB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/browser_build/bson.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/browser_build/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/binary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/bson.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/code.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/db_ref.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/decimal128.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/double.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/float_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/int_32.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/long.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/max_key.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/min_key.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/objectid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/calculate_size.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/deserializer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/serializer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/regexp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/timestamp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bson/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/buffer-shims/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/buffer-shims/license.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/buffer-shims/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/buffer-shims/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/core-util-is/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/core-util-is/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/core-util-is/float.patch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/core-util-is/lib/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/core-util-is/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/core-util-is/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise.umd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/-internal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/asap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/enumerator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/race.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/reject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/resolve.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/then.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/es6-promise/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/isarray/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/dist/lg-autoplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/dist/lg-autoplay.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-autoplay/src/lg-autoplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/dist/lg-fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/dist/lg-fullscreen.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-fullscreen/src/lg-fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/dist/lg-hash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/dist/lg-hash.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-hash/src/lg-hash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/dist/lg-pager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/dist/lg-pager.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-pager/src/lg-pager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/dist/lg-share.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/dist/lg-share.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-share/src/lg-share.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/dist/lg-thumbnail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/dist/lg-thumbnail.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-thumbnail/src/lg-thumbnail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/dist/lg-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/dist/lg-video.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-video/src/lg-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/dist/lg-zoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/dist/lg-zoom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lg-zoom/src/lg-zoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1-1600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1-375.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1-480.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13-1600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13-375.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13-480.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2-1600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2-375.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2-480.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4-1600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4-375.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4-480.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-autoplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-autoplay.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-fullscreen.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-hash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-hash.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-pager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-pager.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-share.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-share.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-thumbnail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-thumbnail.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-video.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-zoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lg-zoom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lightgallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/js/lightgallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-fb-comment-box.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-fb-comment-box.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-transitions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-transitions.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lightgallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lightgallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/video-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/vimeo-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/youtube-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/lib/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/lib/lg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/lib/picturefill.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/lightGallery.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-fb-comment-box.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-fb-comment-box.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-transitions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-transitions.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lightgallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lightgallery.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/video-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/vimeo-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/youtube-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/js/lightgallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-autoplay.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-fb-comment-box.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-fullscreen.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-pager.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-share.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-theme-default.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-thumbnail.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-transitions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-video.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-zoom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lightgallery.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/prepros.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/test/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/test/lightgallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/lightgallery/test/lightgallery_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/TESTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/THIRD-PARTY-NOTICES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/blocking_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/conf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/connect_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/gssapi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/mongocr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/plain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/scram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/sspi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/x509.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/command_result.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/commands.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/connection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/logger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/error.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/tools/smoke_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/read_preference.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset_state.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/shared.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/2_4_support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/2_6_support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/commands.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/shared.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/simple_2_document_limit_toArray.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/test1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/test_bug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/THIRD-PARTY-NOTICES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/boot_auth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/conf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/insert_bench.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/aggregation_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/apm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/ordered.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/unordered.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/command_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/gridfs-stream/download.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/gridfs-stream/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/gridfs-stream/upload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/gridfs/chunk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/gridfs/grid_store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/mongo_client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/read_preference.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/replset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/topology_base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/url_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mongodb/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/license.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/doc/stream.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/BufferList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/passthrough.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/readable-stream/writable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/require_optional/test/require_optional_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/resolve-from/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/resolve-from/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/resolve-from/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/resolve-from/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/range.bnf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/semver/semver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string_decoder/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string_decoder/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string_decoder/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string_decoder/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/string_decoder/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/util-deprecate/package.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/main.less" afterPath="$PROJECT_DIR$/myapp/public/stylesheets/main.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-Black.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-Black.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-BlackItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-BlackItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-Bold.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-Bold.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-BoldItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-BoldItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-ExtraBold.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-ExtraBold.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-ExtraBoldItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-ExtraBoldItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-ExtraLight.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-ExtraLight.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-ExtraLightItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-ExtraLightItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-Light.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-Light.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-LightItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-LightItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-Medium.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-Medium.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-MediumItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-MediumItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-Regular.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-Regular.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-RegularItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-RegularItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-SemiBold.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-SemiBold.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-SemiBoldItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-SemiBoldItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-Thin.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-Thin.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/Metropolis-ThinItalic.otf" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/Metropolis-ThinItalic.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/SIL Open Font License.txt" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/SIL Open Font License.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/generator_config.txt" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/generator_config.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-black-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-black-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-black-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-black-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-black-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-black-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-blackitalic-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-blackitalic-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-blackitalic-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-blackitalic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-blackitalic-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-blackitalic-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-bold-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-bold-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-bold-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-bold-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-bold-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-bold-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-bolditalic-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-bolditalic-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-bolditalic-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-bolditalic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-bolditalic-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-bolditalic-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extrabold-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extrabold-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extrabold-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extrabold-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extrabold-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extrabold-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extrabolditalic-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extrabolditalic-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extrabolditalic-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extrabolditalic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extrabolditalic-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extrabolditalic-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extralight-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extralight-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extralight-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extralight-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extralight-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extralight-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extralightitalic-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extralightitalic-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extralightitalic-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extralightitalic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-extralightitalic-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-extralightitalic-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-light-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-light-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-light-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-light-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-light-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-light-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-lightitalic-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-lightitalic-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-lightitalic-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-lightitalic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-lightitalic-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-lightitalic-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-medium-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-medium-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-medium-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-medium-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-medium-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-medium-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-mediumitalic-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-mediumitalic-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-mediumitalic-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-mediumitalic-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/metropolis-mediumitalic-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/metropolis-mediumitalic-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/specimen_files/grid_12-825-55-15.css" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/specimen_files/grid_12-825-55-15.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/specimen_files/specimen_stylesheet.css" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/specimen_files/specimen_stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/metropolis/stylesheet.css" afterPath="$PROJECT_DIR$/myapp/public/fonts/metropolis/stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/generator_config.txt" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/generator_config.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrich-regular-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrich-regular-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrich-regular-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrich-regular-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrich-regular-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrich-regular-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-black-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-black-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-black-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-black-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-black-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-black-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-bold-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-bold-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-bold-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-bold-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-bold-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-bold-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-heavy-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-heavy-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-heavy-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-heavy-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-heavy-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-heavy-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-light-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-light-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-light-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-light-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-light-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-light-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-medium-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-medium-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-medium-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-medium-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsans-medium-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsans-medium-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsansdashed-medium-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsansdashed-medium-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsansdashed-medium-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsansdashed-medium-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsansdashed-medium-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsansdashed-medium-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsansrounded-medium-demo.html" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsansrounded-medium-demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsansrounded-medium-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsansrounded-medium-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/ostrichsansrounded-medium-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/ostrichsansrounded-medium-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/specimen_files/grid_12-825-55-15.css" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/specimen_files/grid_12-825-55-15.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/specimen_files/specimen_stylesheet.css" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/specimen_files/specimen_stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/webfontkit-20170131-092713/stylesheet.css" afterPath="$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/stylesheet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/1.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/2.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/3.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/4.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/biography/biography1.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/biography/biography1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/biography/biography2.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/biography/biography2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/biography/biography3.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/biography/biography3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/biography/biography4.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/biography/biography4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/biography/biography5.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/biography/biography5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/events/event1.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/events/event1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/next.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/next.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/next.png" afterPath="$PROJECT_DIR$/myapp/public/images/next.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/nextBig.png" afterPath="$PROJECT_DIR$/myapp/public/images/nextBig.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/play.png" afterPath="$PROJECT_DIR$/myapp/public/images/play.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prev.jpg" afterPath="$PROJECT_DIR$/myapp/public/images/prev.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prev.png" afterPath="$PROJECT_DIR$/myapp/public/images/prev.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prevBig.png" afterPath="$PROJECT_DIR$/myapp/public/images/prevBig.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/.gitattributes" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/.gitignore" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/.travis.yml" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/Gruntfile.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/LICENSE" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/README.md" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/_config.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/_config.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/bower.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/LICENSE" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/README.md" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/ajax-loader.gif" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.carousel.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.carousel.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.carousel.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/assets/owl.video.play.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/assets/owl.video.play.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/owl.carousel.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/owl.carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/dist/owl.carousel.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/dist/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/css/animate.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/css/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/css/docs.theme.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/css/docs.theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/bird_blue_32.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/bird_blue_32.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/download.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/download.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-drag.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-drag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-modern.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-modern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-module.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-module.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-options.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-options.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-responsive.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-responsive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-zombie.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/feature-zombie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/owl-logo.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/owl-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/img/twitter_25.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/img/twitter_25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/js/app.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/js/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/js/foundation.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/js/foundation.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/README.md" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/ajax-loader.gif" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.video.play.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.video.play.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/vendors/foundation.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/vendors/foundation.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/vendors/highlight.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/vendors/highlight.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.map" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.mousewheel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/animate.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/animate.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/autoheight.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/autoheight.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/autoplay.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/autoplay.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/autowidth.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/autowidth.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/basic.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/basic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/center.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/center.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/demos.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/demos.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/events.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/events.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/lazyLoad.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/lazyLoad.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/merge.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/merge.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/mousewheel.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/mousewheel.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/responsive.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/responsive.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/rtl.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/rtl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/stagepadding.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/stagepadding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/test.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/urlhashnav.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/urlhashnav.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/demos/video.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/demos/video.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/api-classes.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/api-classes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/api-events.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/api-events.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/api-options.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/api-options.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/dev-buildin-plugins.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/dev-buildin-plugins.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/dev-external.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/dev-external.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/dev-plugin-api.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/dev-plugin-api.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/dev-styles.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/dev-styles.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/started-faq.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/started-faq.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/started-installation.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/started-installation.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/started-welcome.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/started-welcome.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/support-changelog.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/support-changelog.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/support-contact.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/support-contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/docs/support-contributing.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/docs/support-contributing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs/index.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/css/animate.css" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/css/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/bird_blue_32.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/bird_blue_32.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/download.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/download.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-drag.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-drag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-modern.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-modern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-module.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-module.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-options.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-options.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-responsive.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-responsive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-zombie.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/feature-zombie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/owl-logo.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/owl-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/img/twitter_25.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/img/twitter_25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/js/app.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/js/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/js/foundation.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/js/foundation.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/_settings.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/_settings.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/custom.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/custom.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/demos.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/demos.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.theme.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.theme.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/highlight.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/scss/highlight.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/foundation.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/foundation.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/highlight.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/highlight.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.map" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.mousewheel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/data/classes.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/data/classes.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/data/events.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/data/events.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/data/features.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/data/features.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/data/options.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/data/options.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/helpers/modulo.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/helpers/modulo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/helpers/test.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/helpers/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/layouts/demos.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/layouts/demos.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/layouts/docs.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/layouts/docs.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/layouts/home.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/layouts/home.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/animate.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/animate.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoheight.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoheight.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoplay.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoplay.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autowidth.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autowidth.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/basic.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/basic.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/center.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/center.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/demos.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/demos.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/events.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/events.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/lazyLoad.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/merge.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/merge.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/mousewheel.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/responsive.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/responsive.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/rtl.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/rtl.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/stagepadding.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/test.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/test.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/urlhashnav.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/video.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/video.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-classes.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-classes.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-events.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-events.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-options.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-options.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-external.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-external.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-styles.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-faq.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-faq.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-installation.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-installation.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-welcome.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-changelog.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contact.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contact.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contributing.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/index.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/pages/index.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/footer.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/footer.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/head.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/head.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/header.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/header.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-carousel.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-carousel.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-features.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-features.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-hero.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-hero.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-teaser-text.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/home-teaser-text.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/javascripts.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/javascripts.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/releated-docs.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/releated-docs.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/sidenav-docs.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/sidenav-docs.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/title.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/title.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/vendors.hbs" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/docs_src/templates/partials/vendors.hbs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/package.json" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/img/ajax-loader.gif" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/img/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/img/owl.video.play.png" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/img/owl.video.play.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/.jscsrc" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/.jscsrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/.jshintrc" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.animate.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.animate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.autoheight.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.autoheight.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.autoplay.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.autoplay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.autorefresh.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.autorefresh.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.carousel.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.hash.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.hash.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.lazyload.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.lazyload.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.navigation.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.navigation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.support.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.support.modernizr.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.support.modernizr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/js/owl.video.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/js/owl.video.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_animate.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_animate.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_autoheight.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_autoheight.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_core.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_lazyload.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_lazyload.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_theme.default.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_theme.default.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_theme.green.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_theme.green.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_theme.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_theme.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/_video.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/_video.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/owl.carousel.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/owl.carousel.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/owl.theme.default.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/owl.theme.default.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/src/scss/owl.theme.green.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/src/scss/owl.theme.green.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/test/index.html" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/OwlCarousel2-2.2.0/test/unit/core.js" afterPath="$PROJECT_DIR$/myapp/public/lib/OwlCarousel2-2.2.0/test/unit/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/font-awesome.css" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/larger.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/mixins.css" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/mixins.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/path.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/stacked.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/variables.css" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/variables.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/public/stylesheets/admin.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/routes/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/views/admin.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/app.js" afterPath="$PROJECT_DIR$/myapp/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/package.json" afterPath="$PROJECT_DIR$/myapp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/public/javascripts/script.js" afterPath="$PROJECT_DIR$/myapp/public/javascripts/script.js" />
     </list>
     <ignored path="music.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1167,23 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-              <folding>
-                <element signature="n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/public/stylesheets/main.less">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="404" column="19" selection-start-line="404" selection-start-column="15" selection-end-line="404" selection-end-column="19" />
+              <caret line="93" column="32" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -1192,18 +42,38 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="51" />
+            <state relative-caret-position="391">
+              <caret line="59" column="23" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myapp/views/index.ejs">
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/bin/www">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="58">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/views/admin.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/public/stylesheets/admin.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -1215,8 +85,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Less File" />
         <option value="JavaScript File" />
+        <option value="Less File" />
       </list>
     </option>
   </component>
@@ -1236,14 +106,19 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.js" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/myapp/package.json" />
-        <option value="$PROJECT_DIR$/myapp/app.js" />
         <option value="$PROJECT_DIR$/myapp/views/index.ejs.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.less" />
         <option value="$PROJECT_DIR$/myapp/public/stylesheets/main.less" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/myapp/public/javascripts/script.js" />
+        <option value="$PROJECT_DIR$/myapp/package.json" />
         <option value="$PROJECT_DIR$/myapp/views/index.ejs" />
+        <option value="$PROJECT_DIR$/myapp/views/admin.js" />
+        <option value="$PROJECT_DIR$/myapp/routes/users.js" />
+        <option value="$PROJECT_DIR$/myapp/app.js" />
+        <option value="$PROJECT_DIR$/myapp/routes/admin.js" />
+        <option value="$PROJECT_DIR$/myapp/public/stylesheets/admin.less" />
+        <option value="$PROJECT_DIR$/myapp/views/admin.ejs" />
       </list>
     </option>
   </component>
@@ -1294,8 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1311,6 +186,162 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1420,7 +451,10 @@
       <workItem from="1487139564100" duration="5385000" />
       <workItem from="1487158722858" duration="2688000" />
       <workItem from="1487166943691" duration="2787000" />
-      <workItem from="1487169782500" duration="896000" />
+      <workItem from="1487169782500" duration="1034000" />
+      <workItem from="1487231204326" duration="1854000" />
+      <workItem from="1487251134410" duration="5216000" />
+      <workItem from="1487312034814" duration="12931000" />
     </task>
     <task id="LOCAL-00001" summary="menu scroll">
       <created>1486659492226</created>
@@ -1433,7 +467,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144036000" />
+    <option name="totallyTimeSpent" value="164175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1448,7 +482,7 @@
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38626608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39914164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5021322" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1492,73 +526,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/createDB.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
-          <folding>
-            <element signature="n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/metropolis/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js" />
-    <entry file="file://$PROJECT_DIR$/createDB.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/metropolis/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/webfontkit-20170131-092713/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/metropolis/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/fonts/webfontkit-20170131-092713/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/css/main.less" />
     <entry file="file://$PROJECT_DIR$/app.js" />
     <entry file="file://$PROJECT_DIR$/createDB.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -1571,14 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less" />
     <entry file="file://$PROJECT_DIR$/app.js" />
     <entry file="file://$PROJECT_DIR$/createDB.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -1591,14 +554,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less" />
     <entry file="file://$PROJECT_DIR$/app.js" />
     <entry file="file://$PROJECT_DIR$/createDB.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -1611,14 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less" />
     <entry file="file://$PROJECT_DIR$/app.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1630,29 +579,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/webfontkit-20170131-092713/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less" />
+    <entry file="file://$PROJECT_DIR$/fonts/webfontkit-20170131-092713/stylesheet.css" />
     <entry file="file://$PROJECT_DIR$/lib/jquery/src/css/var/swap.js" />
-    <entry file="file://$PROJECT_DIR$/fonts/metropolis/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/metropolis/stylesheet.css" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1660,61 +590,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="3" column="1549" selection-start-line="3" selection-start-column="1549" selection-end-line="3" selection-end-column="1549" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="431" column="20" selection-start-line="431" selection-start-column="20" selection-end-line="431" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.min.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.js" />
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
     <entry file="file://$PROJECT_DIR$/app.js" />
     <entry file="file://$PROJECT_DIR$/createDB.js" />
-    <entry file="file://$PROJECT_DIR$/myapp/views/layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/public/lib/font-awesome-4.7.0/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1725,34 +609,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/public/stylesheets/main.css" />
+    <entry file="file://$PROJECT_DIR$/css/main.less" />
+    <entry file="file://$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/swap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/src/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="289">
+          <caret line="147" column="63" selection-start-line="147" selection-start-column="63" selection-end-line="147" selection-end-column="81" />
           <folding>
             <element signature="n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/public/stylesheets/main.css" />
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="276" column="21" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/public/lib/jquery/src/css/var/swap.js">
+    <entry file="file://$PROJECT_DIR$/myapp/npm-debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1760,7 +651,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/public/lib/lg-fullscreen/src/.jshintrc">
+    <entry file="file://$PROJECT_DIR$/myapp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1770,8 +669,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/public/javascripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+        <state relative-caret-position="17">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/routes/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/public/fonts/webfontkit-20170131-092713/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/public/fonts/metropolis/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1779,23 +734,31 @@
     <entry file="file://$PROJECT_DIR$/myapp/public/stylesheets/main.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="404" column="19" selection-start-line="404" selection-start-column="15" selection-end-line="404" selection-end-column="19" />
+          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/views/index.pug">
+    <entry file="file://$PROJECT_DIR$/myapp/public/stylesheets/admin.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/views/admin.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="280">
+          <caret line="93" column="32" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="32" />
           <folding />
         </state>
       </provider>

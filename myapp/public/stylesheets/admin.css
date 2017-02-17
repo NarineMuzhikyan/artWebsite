@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  color: #4b4b4b;
+  font-family: 'metropolismedium';
+}
+.adminContent {
+  padding: 35px 80px;
+}
+.adminContent .bigTitle {
+  font-size: 30px;
+  border-bottom: 1px solid #4b4b4b;
+  width: auto;
+  display: inline-block;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+.adminContent textarea.big {
+  width: 35%;
+  height: 13vh;
+}
+.adminContent textarea.small {
+  width: 35%;
+  height: 5vh;
+}
+.adminContent .imagesPart {
+  margin-top: 50px;
+}
+.adminContent .eventsPart {
+  margin-top: 50px;
+}
+.adminContent .videoPart {
+  margin-top: 50px;
+}

@@ -7,8 +7,41 @@ var bodyParser = require('body-parser');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
+var admin = require('./routes/admin');
+
 
 var app = express();
+
+
+var mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/test');
+
+var Events = mongoose.model('Events', { name: String, date: String, time: String, location: String, image: String});
+var Biography = mongoose.model('Biography', { title1: String, title2: String, content1: String, content2: String});
+var Images = mongoose.model('Images', { name: String});
+var Videos = mongoose.model('Videos', { name: String});
+var event = new Events({ name: 'live concert', date: '02.05.2017', time: '15:30', location: 'Yerevan' });
+event.save(function (err) {
+    if (err) {
+        console.log(err);
+    } else {
+        console.log('meow');
+    }
+});
+var biography = new Biography({ title1: 'What is Lorem Ipsum?', title2: 'Why do we use it?', content1: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", content2: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or- less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English." });
+biography.save(function (err) {
+    if (err) {
+        console.log(err);
+    } else {
+        console.log('meow');
+    }
+});
+var arr = [{ name: 'images/biography/biography1.jpg'}, {name: 'images/biography/biography2.jpg'},
+    {name: 'images/biography/biography3.jpg'}, {name: 'images/biography/biography4.jpg'},
+    {name: 'images/biography/biography5.jpg'}];
+
+
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -24,6 +57,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
 app.use('/users', users);
+app.use('/admin', admin);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -44,3 +78,6 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+
+
